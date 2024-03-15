@@ -1,0 +1,62 @@
+ENTRY
+Basic
+1
+-44% cam detection speed
+None
+None
+-44% Camera detection speed.
+cool, +0.2% headshot damage
+
+ENTRY
+Clairvoyant
+2
+None
+None
+None
+While scanning: Highlights enemies within 19.5m, The effect remains active for 60 seconds after scanning.
+cool, +0.2% headshot damage
+
+ENTRY
+Cockatrice
+30
+crit chance +35%
+None
+None
+[Iconic];Increases Crit Chance by 35%
+none
+
+ENTRY
+Doomsayer
+2
+None
+None
+None
+While scanning: Highlight explosive devices and traps near your crosshair and within 29m. Remains active for 60 seconds after scanning.
+refl, +0.1% crit chance
+
+ENTRY
+Sentry
+2
+None
+None
+None
+While scanning: Highlights cameras and turrets in 39m. Remains active for 60 seconds after scanning.
+int, +0.05% damage
+
+ENTRY
+Stalker
+2
+None
+None
+None
+While aiming: Highlights enemies behind cover for 24% of your FOV and up to 53m deep.
+tech, +0.5 armor
+
+ENTRY
+The Oracle
+10
+None
+None
+None
+Effects active when scanning:<br>Highlights enemies within 19.5m, including enemies behind cover.<br>Highlights cameras and turrets within 39m.<br>Highlights explosive devices and traps near your crosshair and within 29m.<br>Remains active for 60 sec. after scanning.
+body, +0.5 health

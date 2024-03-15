@@ -1,0 +1,120 @@
+ENTRY
+Axolotl
+55
+None
+None
+None
+[Iconic];-7.5% Cooldown instantly for all cyberware after neutralizing an enemy.
+none
+
+
+ENTRY
+Newton Module
+14
+None
+None
+None
+-1.35% Cooldown instantly for all cyberware after neutralizing an enemy.
+tech, +0.5 armor
+
+
+ENTRY
+COX-2 Cybersomatic Optimizer
+50
+-4 ram
+quickhack crit chance = 100%
+None
+[Iconic];Allows your quickhacks to deal Crit Hits. 100% Crit Chance with quickhacks. -4 Max RAM
+int, +0.5% quickhack damage
+
+
+ENTRY
+Bioconductor
+20
+-4 ram
+quickhack crit chance = 35%
+None
+Allows your quickhacks to deal Crit Hits. 35% Crit Chance with quickhacks. -4 Max RAM
+int, +0.05% damage
+
+
+ENTRY
+Camillo RAM Manager
+10
++2 ram
+None
+None
+Instantly recovers 23% Max RAM when available RAM falls to 20%. +2 Max RAM. Cooldown: 80 sec.
+int, -2 sec cooldown
+
+ENTRY
+RAM Reallocator
+40
++2 ram
+None
+None
+[Iconic];Instantly recovers 23% Max RAM when available RAM falls to 20%. +2 Max RAM. Cooldown: 85 sec.
+int, -3 sec cooldown
+
+ENTRY
+Ex-Disk
+10
++6 ram
+None
+None
++6 Max RAM. +35% upload speed for quickhacks.
+int, +0.05% damage
+
+ENTRY
+Kerenzikov Boost System
+8
+None
+None
+None	
+Improves Kerenzikov by enhancing the user's speed and reflexes. When Kerenzikov is active: -100% Stamina cost from shooting. Slows time by +15% relative to your enemies.
+refl, +0.1% crit chance
+
+ENTRY
+Mechatronic Core
+5
++2 ram
++40% damage
+robot
++40% damage against drones, robots, mechs and turrets. +2 Max RAM
+tech, +0.5 armor
+
+ENTRY
+Memory Boost
+20
++1 ram
+None
+None
++1.25 RAM when you neutralize an enemy. +1 Max RAM
+int, +0.05% damage
+
+ENTRY
+Quantum Tuner
+45
+None
+None
+None
+[Iconic];Whenever another cyberware implant is fully used, Quantum Tuner instantly restores its Cooldown.(up to a max of 50 sec.).<br>Cooldown: 60 sec. outside of combat.<br>Passive Effect: -15% Cooldown Time for all other cyberware.
+none
+
+ENTRY
+RAM Upgrade
+8
++20% ram recovery, +2 ram
+None
+None
+Increases RAM recovery rate by +0.2 unit(s) per sec. +2 Max RAM
+int, +0.05% damage
+
+ENTRY
+Self-Ice 
+5
++2 ram
+None
+None
+Automatically negates an enemy quickhack. +2 Max RAM. Cooldown: 20 sec.
+int, -0.5 sec cooldown

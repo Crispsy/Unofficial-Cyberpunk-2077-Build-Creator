@@ -1,0 +1,287 @@
+ENTRY
+Senkoh LX 
+Tech
+none
+Fires in full auto when fully charged.
+none
+none
+7.7
+41
+1.1
+28
+6.5
+30
+100
+0
+
+ENTRY
+Shigure
+Power
+none
+none
+none
+none
+17
+30
+1.4
+24
+7.5
+50
+100
+0
+
+ENTRY
+TKI-20 Shingen
+Smart
+none
+none
+none
+none
+6.7
+34
+1.9
+24
+5.3
+30
+50
+0
+
+ENTRY
+Guillotine
+Power
+none
+none
+none
+none
+13
+38
+1.4
+28
+6.9
+45
+100
+0
+
+ENTRY
+Buzzsaw
+Power
+A one-of-a-kind SMG that allows you to fire high-penetration rounds. Increases damage to an enemy's limbs. May cause massacres.	
+none
+none
+none
+10
+40
+1.6
+21
+7
+40
+100
+25
+
+ENTRY
+Chesapeake
+Smart
+Unleash the power of the pack! Gain increased movement speed on kills and dismemberments. The faster you move, the more damage you deal. BARGHEST weapons also gain increased Armor Penetration.
+Firerate increases with each consecutive shot.
++20% movspeed, +25% damage
+kills
+5
+66
+2.1
+18
+4.9
+40
+50
+25
+
+ENTRY
+DS1 Pulsar
+Power
+none
+none
+none
+none
+13
+40
+1.6
+21
+7.1
+40
+100
+0
+
+ENTRY
+Fenrir
+Power
+Rounds deal Electrical damage with a chance to disable enemy cyberware. Maelstrom gangoons will piss themselves at the sight of this weapon.
++20% Shock Chance.
+none
+none
+15
+34
+1.4
+24
+7.9
+40
+100
+0
+
+ENTRY
+Guillotine x-MOD2
+Power
+A special version of the weapon capable of additional modification. Optimized design also allows for improved handling.
+none
+none
+none
+13
+38
+1.4
+35
+8.1
+45
+125
+0
+
+ENTRY
+HA-7 Warden
+Smart
+none
+Fire rate increases with each consecutive shot.
+none
+none
+5
+61
+2.1
+24
+4.9
+40
+50
+0
+
+ENTRY
+G-58 Dian
+Smart
+none
+none
+none
+none
+13
+27
+1.4
+30
+4.1
+45
+50
+0
+
+ENTRY
+Erebus
+Power
+Rounds fired from this weapon are infused with the dark energy from beyond the Blackwall. Highly effective against enemies with low Health.
+none
+none
+none
+6
+80
+1.8
+18
+5.5
+50
+100
+25
+
+ENTRY
+M221 Saratoga
+Power
+none
+none
+none
+none
+15
+34
+1.4
+24
+8
+40
+100
+0
+
+ENTRY
+Pizdets
+Smart
+Thanks to Boris's mods, the longer this weapon fires, the greater the Crit chance. Comes with its own custom silencer.
+Fire rate increases with each consecutive shot.
++120% damage; +35% headshot damage; +30% attack speed; +24% crit chance
+stealth; none; firing; firing
+5.9
+53
+2.1
+24
+6.2
+20
+85
+0
+
+ENTRY
+Problem Solver
+Power
+Removes all safety and reason by firing almost 1000 rounds per minute.
+none
+none
+none
+20
+41
+1.2
+24
+7
+90
+100
+0
+
+ENTRY
+Prototype: Shingen Mark V 
+Smart
+Fires explosive rounds. The modified automated targeting system guides bullets to up to 3 targets while aiming. Perfect for when you're outnumbered.
++30% Burn Chance
+none
+none
+6.7
+34
+1.9
+24
+5.3
+30
+50
+0
+
+ENTRY
+Raiju
+Tech
+Arasaka's combat model, manufactured for extreme precision. Shots do not require charging to penetrate obstacles. Headshots have a greater Crit Chance.
+Fires in full auto when fully charged.
++33% crit damage; +33% crit chance
+none; headshot
+7.7
+37
+1.1
+28
+8.9
+30
+100
+0
+
+ENTRY
+Yinglong
+Smart
+Deals additional Electrical damage with a small chance to apply an EMP on impact.
++20% Shock Chance
+none
+none
+13
+30
+1.4
+30
+4.1
+45
+50
+0

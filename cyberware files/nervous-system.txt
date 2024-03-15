@@ -1,0 +1,107 @@
+ENTRY
+Adrenaline Converter 
+6
+None
++40% movspeed
+entering combat
++40% movement speed for 9 sec. when entering combat.
+cool, +0.2% headshot damage
+
+ENTRY
+Adreno-trigger
+20
+None
++30% movspeed
+entering combat
+[Iconic];+30% movement speed for 35 sec. when entering combat.
+refl, +3 sec cyberware duration
+
+ENTRY
+Atomic Sensors
+5
+None
++64% movspeed
+nearly detected
+Increases movement speed proportional to the enemy's detection of you outside of combat. (max. 64% movement speed at 80% detection).<br>The effect ends when you enter combat.
+cool, +0.2% headshot damage
+
+ENTRY
+Deep-field Visual Interface
+40
+None
+crit chance = 100%
+far range
+[Iconic];Crit Chance increases the further you are from the enemy. (max. 100% at 100m)
+cool, +1% crit damage
+
+ENTRY
+Visual Cortex Support
+20
+None
++30% crit chance
+far range
+Crit Chance increases the further you are from the enemy. (max. 30% at 30m)
+cool, +0.2% headshot damage
+
+ENTRY
+Kerenzikov
+12
+None
+None
+None
+Allows you to aim and perform ranged attacks while sliding, dodging or Dashing.<br>Slows time by 60% for 3.75 sec. when you aim a ranged attack during a slide, dodge or Dash.<br>Cooldown: 6 sec.
+refl, +0.1% crit chance
+
+ENTRY
+NeoFiber
+14
++11% mit chance, +11% mit strength
+None
+None
++11% Mitigation Chance,<br>+11% Mitigation Strength
+refl, +0.1% crit chance
+
+ENTRY
+Reflex Tuner
+8
+None
+None
+None
+Slows time by 60% for 4.5 sec. when your Health drops below 25%. <br>Cooldown: 35 sec.
+cool, +0.2% headshot damage
+
+ENTRY
+Revulsor 
+35
+None
+None
+None
+[Iconic];Slows time by 60% for 4.5 sec. when your Health drops below 25%.<br>Your movement is not slowed.<br>Cooldown: 35 sec.
+cool, -0.25 sec cooldown
+
+ENTRY
+Stabber
+12
++20% crit chance: blade,throwable
+None
+None
++20% Crit Chance with Blades and throwable weapons.
+refl, +0.1% crit chance
+
+ENTRY
+Synaptic Accelerator
+5
+None
+None
+None
+Slows time by 50% for 4.5 sec. when enemy detection reaches 50%.<br>Cooldown: 60 sec.
+cool, +0.2% headshot damage
+
+ENTRY
+Tyrosine Injector
+8
+None
++21% headshot damage, +11% movspeed
+takedown
+Successful Takedowns grant:<br>+21% Headshot damage for 15 sec.<br>+11% Movement Speed for 15 sec.
+cool, +0.2% headshot damage

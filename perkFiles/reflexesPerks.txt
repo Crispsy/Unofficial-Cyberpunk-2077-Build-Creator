@@ -1,0 +1,373 @@
+ENTRY
+lvl 2,9,None
+Ready. Rested. Reloaded.
+-10% stamina cost
+None
+None
+None
++30% reload speed
+high stamina
+Level 1: -10% stamina cost for shooting. <br>Level 2: +30% reload speed above 50% stamina.
+ar, smg
+
+ENTRY
+lvl 1
+Mind Over Matter
+None
+-25% recoil
+aiming
+-25% recoil when aiming
+ar, smg
+
+ENTRY
+lvl 1
+Spice Of Life
++15% swap speed
+-70% bullet spread
+swapping weapons
++15% Weapon swap speed, 30% bullet spread shortly after swapping.
+ar, smg
+
+ENTRY
+lvl 1
+Tunnel Vision
++20% range, +20% accuracy
+None
+None
++20% Range and Accuracy
+ar, smg
+
+//
+
+ENTRY
+lvl 3,15,Ready. Rested. Reloaded.
+Sharpshooter
++15% aim speed
+None
+None
+None
+None
+None
+None
++49% stamina regen
+sharpshooter
+Level 1: +15% Aim speed.<br>Level 2: Improved control<br>Level 3: Unlocks Sharpshooter. Stacks 7 times, +7% stamina regen and -7% stamina cost per Stack.
+ar, smg
+
+ENTRY
+lvl 1
+Practice Makes Perfect
+None
++49% crit chance, +49% crit damage
+sharpshooter
++7% Crit Chance and Damage per stack of Sharpshooter
+ar, smg
+
+ENTRY
+lvl 1
+Gundancer
+None
+movpen = 0%
+aiming
+Aiming no longer slows movement, Allows you to shoot while Vaulting
+ar, smg
+
+ENTRY
+lvl 1
+Spray and Pray
+None
+-10% stamina cost
+hip fire
+-10% Stamina cost for hip-firing.
+ar, smg
+
+ENTRY
+lvl 1
+Shoot to Chill
+None
++28% armor pen
+sharpshooter
++4% Armor penetration for automatic weapons per stack of Sharpshooter.
+ar, smg
+
+//
+
+ENTRY
+lvl 1,4,None
+Slippery
+None
+None
+None
+The faster you move, the more difficult you are to hit
+All
+
+ENTRY
+lvl 1
+Power Slide
+None
+None
+None
+Increased slide distance
+All
+
+ENTRY
+lvl 1
+Parkour!
+None
+None
+None
+Increased vaulting and climbing speed.
+All
+
+ENTRY
+lvl 1
+Multitasker
+None
+None
+None
+Allows you to shoot while sprinting, sliding or vaulting
+All
+
+ENTRY
+lvl 1
+Muscle Memory
+None
+None
+None
+Allows you to reload weapons while sprinting, sliding and vaulting
+All
+
+//
+
+ENTRY
+lvl 2,9,Slippery
+Dash
+None
+None
+None
+Unlock Dash
+None
+None
+Level 1: -20% stamina cost for dodging and dashing.<br>Level 2: Unlocks Dash (better dodge)
+All
+
+ENTRY
+lvl 1
+Mean Streak
+None
+None
+None
++40% stamina after neutralizing during a dodge (not included in calculations)
+All
+
+ENTRY
+lvl 1
+Mad Dash
+None
+None
+None
++100% Dash range toward enemies
+All
+
+ENTRY
+lvl 1
+Can't Touch This
+None
+None
+None
++100% mitigation chance when dashing (not included in calculations)
+All
+
+ENTRY
+lvl 1
+Steady Grip
+None
+None
+None
+Allows you to shoot while dashing
+All
+
+//
+
+ENTRY
+lvl 3,15,Dash
+Air Dash
+None
+None
+None
++20% dash speed
+None
+None
+unlock mid-air Dash
+None
+None
+Level 1: -20% dash stamina cost<br>Level 2: +20% dash speed.<br>Level 3: Unlocks mid-air Dash
+All
+
+ENTRY
+lvl 1
+Aerodynamic
+None
++30% mit strength
+midair
++30% Mitigation strength in midair.
+All
+
+ENTRY
+lvl 1
+Aerial Acrobat
+None
+None
+None
+Improves midair maneuverability
+All
+
+ENTRY
+lvl 1,15,Gundancer
+Air Kerenzikov
+None
+None
+None
+Activating Kerenzikov in midair keeps you suspended in the air and extends its duration.
+ar, smg
+
+//
+
+ENTRY
+lvl 2,9,Slippery
+Lead and Steel
+-15% stamina cost
+None
+attack
+unlock Blade Blocking
+None
+None
+Level 1: -15% stamina cost for attacks with blades.<br>Level 2: Unlocks ability to block projectiles with blades
+blades
+
+ENTRY
+lvl 1
+Bullet Deflect
+None
+None
+None
+When stamina > 33%, blocked projectiles will deflect to where you are aiming
+blades
+
+ENTRY
+lvl 1,9,Bullet Deflect
+Bullet Time
+None
+None
+None
+Whenever time is slowed, Bullet Deflect does not consume stamina and deals crit damage
+blades
+
+ENTRY
+lvl 1
+Seeing Double
+None
+None
+None
+Increased damage and Stun chance with Counterattacks.
+blades
+
+ENTRY
+lvl 1,9,Mad Dash
+Flash and Thunderclap
+None
++50% leap damage
+None
+Strong attacks will make you leap towards enemies within range, damage dealt scales with leap distance
+blades
+
+//
+
+ENTRY
+lvl 3,15,Lead and Steel
+Finisher: Bladerunner
+None
+-15% stamina cost
+attack
++20% attack speed
+None
+None
+unlock blade finisher
+None
+None
+Level 1: -15% Stamina cost for attacks<br>Level 2:+20% Attack Speed<br>Level 3: Unlocks Blade Finisher, restores 25% Health (not included in calculations)
+blades
+
+ENTRY
+lvl 1
+Opportunist
+None
+None
+None
+Enemies affected by Stagger, Stun, Blinding and Bleeding are more susceptible to Finishers
+blades
+
+ENTRY
+lvl 1
+Flash of Steel
+None
++25% movspeed, +25% attack speed
+finisher
++25% movement speed and attack speed for 6 sec. after performing a Finisher
+blades
+
+ENTRY
+lvl 1
+Going the Distance
+None
+None
+None
++100% Finisher range
+blades
+
+//
+
+ENTRY
+lvl 1,4,None
+Stuntjock
+None
+None
+None
+New ways to exit vehicles: Jump out, Slide out, you can fire during these stunts
+All
+
+ENTRY
+lvl 1,20,Sharpshooter
+Salt in the Wound
+None
++100% damage
+consecutive shots
+Shooting the same target 7 times deals damage equal to those 7 shots combined (calculated as double damage for each shot)
+ar
+
+ENTRY
+lvl 1,20,Sharpshooter
+Submachine Fun
+None
++22% fire rate
+weapon swap
+Swapping SMGs is faster and auto reloads them, +22% fire rate after swapping
+smg
+
+ENTRY
+lvl 1,20,Air Dash
+Tailwind
+None
+None
+None
++25 stamina from performing Air Dashes and double jumps (not included in calculations)
+All
+
+ENTRY
+lvl 1,20,Finisher: Bladerunner
+Slaughterhouse
+None
+None
+None
+All attacks apply bleeding, which increases dismemberment chance. Bleeding enemies are more susceptible to Finishers
+blades

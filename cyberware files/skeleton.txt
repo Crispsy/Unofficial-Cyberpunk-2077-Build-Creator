@@ -1,0 +1,129 @@
+ENTRY
+Bionic Joints
+8
+None
+None
+None
+Armor - Simple but effective
+85
+tech, +0.5 armor
+
+ENTRY
+Dense Marrow
+16
++27% damage: melee
+None
+None
++27% Melee damage<br>+20% Melee Stamina cost.
+42
+refl, +0.1% crit chance
+
+ENTRY
+Epimorphic Skeleton
+40
++13% health 
+None
+None
++13% Max Health
+126
+body, +0.5 health
+
+ENTRY
+Feen-X
+16
+None
++250% ram regen
+low ram
++250% RAM Regen Rate when available RAM is below 7
+31
+int, +0.5% damage reduction
+
+ENTRY
+Kinetic Frame
+16
+None
++16% mit chance
+high stamina 
++16% Mitigation Chance when Stamina is above 85%
+17
+refl, +0.1% crit chance
+
+ENTRY
+Para Bellum
+25
++12% armor 
+None
+None
++12% Armor
+90
+tech, +0.5 armor 
+
+ENTRY
+Rara Avis
+60
++40% armor
+None
+None
+[Iconic];+40% Armor
+0
+body, +2 health
+
+ENTRY
+RAM Recoup
+14
++2 ram
+None
+None
+Receiving damage restores RAM equal to 0.28% of damage received.<br>+2 Max RAM
+34
+
+
+ENTRY
+Scar Coalescer
+20
+None
++22% armor
+low health
++22% Armor when below 50% Health.
+16
+body, +0.5 health
+
+ENTRY
+Scarab
+14
+None
++110 armor, -20% movspeed
+crouching
+When crouched:<br>+110 Armor<br>-20% Movement Speed
+34
+tech, +0.5 armor
+
+ENTRY
+Spring Joints
+16
++16% mit strength
+None
+None
++16% Mitigation Strength (Total Mitigation Strength cannot exceed 90%)
+16
+body, +0.5 health
+
+ENTRY
+Titanium Bones
+6
+None
+None
+None
++62% Carrying Capacity
+34
+body, +0.5 health
+
+ENTRY
+Universal Booster
+25
+None
++9% armor
+health item
+Health items now also give:<br>+9% Armor,<br>-27% Stamina cost for 5 sec.<br>These effects do not stack.
+42
+tech, +0.5 armor

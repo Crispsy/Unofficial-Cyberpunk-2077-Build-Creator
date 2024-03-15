@@ -1,0 +1,227 @@
+ENTRY
+BFC 9000
+One-Handed Club
+No amount of pornos and skin BDs can prepare you for an encounter with the BFC 9000. Attacks at high Stamina have a greatly increased Crit Chance. Packs a few extra inches for improved range. Strong Attacks deal more damage, both physical and psychological.
+none
++69% crit chance; 10% damage
+high stamina; strong attack
+2.2
+138
+9.6
+25
+
+ENTRY
+Baby Boomer
+Two-Handed Club
+Has zero tolerance for losers. Every consecutive attack in a combo increases Crit chance.
+none
++100% crit chance
+combo hits
+1.5
+216
+12
+0
+
+ENTRY
+Baseball Bat
+Two-Handed Club
+none
+none
+none
+none
+1.2
+240
+12
+25
+
+ENTRY
+Baseball Bat x-MOD2
+Two-Handed Club
+A special version of the weapon capable of additional modification. Optimized design also allows for improved handling.
+none
+none
+none
+1.2
+240
+12
+25
+
+ENTRY
+Caretaker's Spade
+Hammer
+Resembles an ordinary shovel from a different dimension. Restores 12.5% HP after knocking out an enemy (not included in calculations)
+Heavy weapon. Slightly reduces movement speed and jump height.
+none
+none
+1.2
+240
+16
+0
+
+ENTRY
+Cottonmouth
+One-Handed Club
+Electrically charged and tipped with venom, it deals Electrical and Chemical damage. Small chance to apply Poison and/or Shock.
+none
++12.5 damage
+none
+1.3
+179
+9.6
+25
+
+ENTRY
+Crowbar
+One-Handed Club
+none
+none
+none
+none
+1.3
+223
+9.6
+25
+
+ENTRY
+Bunker Crowbar
+One-Handed Club
+Trusty as always. (Increases melee attack speed by 100%, at the cost of 40% reduced damage. While using this crowbar, there is no pause in-between your light-attacks, much like Byakko)
+none
++100% attack speed
+none
+1.3
+134
+9.6
+25
+
+ENTRY
+Electric Baton Alpha
+One-Handed Club
+none
+Charge time: 0.5 sec.
+none
+none
+1.7
+156
+8
+25
+
+ENTRY
+Electric Baton Beta
+One-Handed Club
+none
+Charge time: 0.75 sec.
+none
+none
+1.7
+156
+8
+50
+
+ENTRY
+Electric Baton Gamma
+One-Handed Club
+none
+Charge time: 1.0 sec.
+none
+none
+1.7
+156
+8
+50
+
+ENTRY
+Gold-Plated baseball bat 
+Two-Handed Club
+Infused with Denny's rage. High chance to apply Bleeding (80%). Low chance to apply Stun (5%).
+none
+none
+none
+1.2
+240
+12
+25
+
+ENTRY
+Hammer
+Hammer
+none
+Heavy weapon. Slightly reduces movement speed and jump height.
+none
+none
+1.2
+240
+16
+25
+
+ENTRY
+Kanabo
+Two-Handed Club
+none
+none
+none
+none
+1.2
+240
+12
+25
+
+ENTRY
+Sasquatch's Hammer
+Hammer
+If you're considering using Sasquatch's Hammer, be ready for blood, sweat and tears. You provide the sweat, your enemies - the blood and tears. This monster drains a lot of stamina, but inflicts massive damage.
+Very heavy weapon. When equipped, it significantly reduces movement speed and jump height, and prevents you from sprinting, dodging and dashing.
+none
+none
+0.8
+527
+16
+75
+
+ENTRY
+Sir John Phallustiff
+One-Handed Club
+Strike your enemy in the face and watch their pride crumble as your Crit Chance rises! And if you really want to add insult to emotional injury, put some extra strength into your dildoslap – Sir John could even stun 'em.
+none
++69% crit chance
+hit against head 
+2.2
+138
+9.6
+25
+
+ENTRY
+Steel Pipe
+One-Handed Club
+none
+none
+none
+none
+1.3
+223
+9.6
+25
+
+ENTRY
+Tinker Bell 
+One-Handed Club
+Deals less damage, but with a chance to knock out a target using a Strong attack (20%).
+Charge time: 1.0 sec.
+none
+none 
+1.3
+165
+9.6
+50
+
+ENTRY
+Tire Iron
+One-Handed Club
+none
+none
+none
+none
+1.3
+223
+9.6
+25

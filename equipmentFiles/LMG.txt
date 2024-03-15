@@ -1,0 +1,63 @@
+ENTRY
+M2067 Defender
+Power
+none
+Heavy weapon. Slightly reduces movement speed and jump height.
+none
+none
+11
+34
+2.1
+30
+5.6
+80
+85
+25
+
+ENTRY
+MA70 HB x-MOD2
+Power
+A special version of the weapon capable of additional modification. Optimized design also allows for improved handling.	
+Heavy weapon. Slightly reduces movement speed and jump height. Fires explosive rounds.
+none
+none
+5.6
+50
+3
+42
+5.7
+50
+100
+50
+
+ENTRY
+MA70 HB
+Power
+none
+Heavy weapon. Slightly reduces movement speed and jump height. Fires explosive rounds.
+none
+none
+7.5
+51
+3
+30
+5.2
+60
+85
+25
+
+ENTRY
+Wild Dog
+Power
+Repeated hits increase fire rate and Crit Chance. Quick Melee Attacks deal massive damage when ammo is empty.
+Heavy weapon. Slightly reduces movement speed and jump height.	
++3% attack speed, +250% crit chance 
+kills
+13
+34
+2.7
+30
+5.4
+150
+85
+25

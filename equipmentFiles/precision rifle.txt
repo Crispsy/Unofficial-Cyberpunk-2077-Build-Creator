@@ -1,0 +1,95 @@
+ENTRY
+Achilles x-MOD2
+Tech
+A special version of the weapon capable of additional modification. Optimized design also allows for improved handling.	
+none
+none
+none
+5.6
+84
+2.2
+85
+7.1
+12
+175
+50
+
+ENTRY
+Hypercritical
+Power
+Sturdy design and Tiny Mike's mods - an explosive combination. Bullets detonate knocking down enemies while the final one always deals critical damage.	
++100% Crit Damage 
++100% crit damage
+none
+2
+250
+4.1
+60
+5.2
+6
+200
+50
+
+ENTRY
+SOR-22
+Power
+none
+none
+none
+none
+2
+151
+2.1
+60
+5.7
+10
+150
+25
+
+ENTRY
+M-179e Achilles
+Tech
+none
+none
+none
+none
+5
+104
+2.2
+73
+5.7
+9
+150
+50
+
+ENTRY
+Kolac
+Power
+none
+none
+none
+none
+2
+250
+4.1
+60
+5.2
+6
+220
+50
+
+ENTRY
+Widow Maker
+Tech
+Nash's rifle - looks like he won't be needing it anymore. Fires two projectiles per shot and deals Chemical damage with an increased chance to apply Poison. Charged shots deal more damage.	
++20% Poison Chance 
+none
+none
+5
+113
+2.2
+51
+5.4
+10
+150
+50

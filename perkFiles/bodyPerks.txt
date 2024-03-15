@@ -1,0 +1,332 @@
+ENTRY
+lvl 2,9,None
+Die! Die! Die! 
+None
++12.5% crit chance
+low stamina
+None
++25% fire rate
+low stamina
+Level 1: +12.5% Crit Chance at low Stamina. <br>Level 2: Increased fire rate and improved handling as Stamina decreases.
+shotgun, lmg, hmg
+
+ENTRY
+lvl 1
+Don't Stop Me Now
+None
++15% mit chance, +5% mit chance
+low stamina
+When below 33% Stamina:<br>+15% Mitigation Chance,<br>+5% Mitigation Strength.
+shotgun, lmg, hmg
+
+ENTRY
+lvl 1
+Bullet Ballet
+None
+-25% spread
+moving
+-25% bullet spread when moving
+shotgun, lmg, hmg
+
+ENTRY
+lvl 1
+Like A Feather
+movpen = 0%
+None
+None
+No movement speed penalty with Shotguns, Light Machine Guns and Heavy Machine Guns
+shotgun, lmg, hmg
+
+//
+
+ENTRY
+lvl 3,15,Die! Die! Die!
+Spontaneous Obliteration
+None
++12.5% crit chance
+low stamina
+None
++10% damage
+close
+unlock obliterate
+None
+None
+Level 1: +12.5% Crit Chance at low Stamina.<br>Level 2: +10% damage against nearby enemies.<br>Level 3: unlocks Obliterate - sometimes instantly kill and dismember enemies at low Health
+shotgun, lmg, hmg
+
+ENTRY
+lvl 1
+Dread
+None
+-15% enemy armor
+ranged
+-15% enemy armor when using ranged attacks.
+shotgun, lmg, hmg
+
+ENTRY
+lvl 1
+Rush of Blood
+None
++20% reload speed
+dismember
++20% reload speed for 8 sec. after dismembering an enemy.
+shotgun, lmg, hmg
+
+ENTRY
+lvl 1
+Skullcracker
+None
++200% qdamage
+low stamina
+Increases damage of Quick Melee Attacks as Stamina decreases (max. +200% at 0 Stamina)
+shotgun, lmg, hmg
+
+ENTRY
+lvl 1
+Close-Quarters Carnage
+None
++10% obliterate chance
+close, ranged
+Increased chance to Obliterate enemies with ranged attacks at close range (max. 10%)
+shotgun, lmg, hmg
+
+//
+
+ENTRY
+lvl 1,4,None
+Painkiller
+unlock health regen
+None
+None
+Unlocks slow Health Regen in combat.
+All
+
+ENTRY
+lvl 1 
+Speed Junkie
+None
++60% health regen
+sprint
++60% Health Regen Rate while sprinting.
+All
+
+ENTRY
+lvl 1
+Army of One
+None
++50% health regen
+close
++10% Health Regen for each nearby enemy (capped at max. 5 enemies for high calculations)
+All
+
+ENTRY
+lvl 1
+Dorph-Head
+None
+None
+None
+When using Health Items/Cyberware: <br>+100% mitigation chance for 2 sec. (not included in high calculations)
+All
+
+ENTRY
+lvl 1
+Comeback Kid
+None
++99% health regen
+low health
++1% Health Regen Rate for each percent of missing Health (+99% in high calculations, 0% in low)
+All
+
+//
+
+ENTRY
+lvl 3,15,Painkiller
+Adrenaline Rush
++35 health
+None
+None
++20% health regen, per health regen source
+None
+None
+unlock adrenaline rush
+None
+None
+Level 1: +35 Max Health.<br>Level 2: +20% Health Regen Bonus<br>Level 3: Unlocks Adrenaline Rush mode
+All
+
+ENTRY
+lvl 1
+Calm Mind
+None
++3 sec ar delay
+adrenaline rush
++3 sec. delay before Adrenaline begins to decay
+All
+
+ENTRY
+lvl 1
+Juggernaut
+None
++20% movspeed, +10% damage
+adrenaline rush
+When Adrenaline Rush is active:<br>+20% movement speed, <br>+10% damage.
+All
+
+ENTRY
+lvl 1,15,Rush of Blood
+Bloodlust
+None
++50 adrenaline
+adrenaline rush, dismember, close
+When Adrenaline Rush is active: <br>+50 Adrenaline on dismemberment of a nearby enemy.
+shotgun, lmg, hmg
+
+ENTRY
+lvl 1
+Unstoppable Force
+None
+movpen = 0%
+adrenaline rush
+When Adrenaline Rush is active:<br>Immune to movement penalties and non-damaging status effects.
+All
+
+//
+
+ENTRY
+lvl 2,9,None
+Wrecking Ball
+-15% stamina cost
+None
+None
+unlock wrecking ball
+None
+None
+Level 1: -15% stamina cost for attacks with blunt weapons.<br>Level 2: Blocking + Sprinting allows you to barrel into enemies dealing damage and a chance to knock down.
+blunt
+
+ENTRY
+lvl 1
+Clapback
+None
++100% knockdown chance, +100% stun chance
+defensive attack
++100% Knockdown chance with defensive attacks (10 sec. cooldown).<br>+100% Stun chance with Counterattacks.
+blunt
+
+ENTRY
+lvl 1
+Fly Swatter
+None
+-40% inc damage
+blocking
+-40% incoming ranged damage when blocking with blunt weapons.
+blunt
+
+ENTRY
+lvl 1
+Kinetic Absorption
+None
++10% stamina, +30% damage
+blocking
+Blocking an attack gives +10% stamina and +30% damage with blunt weapons for 5 sec.
+blunt
+
+ENTRY
+lvl 1
+Breakthrough
+None
+-40% enemy armor
+attack
+-40% enemy armor for 7 sec. after hitting them with a strong attack.
+blunt
+
+//
+
+ENTRY
+lvl 3,15,Wrecking Ball
+Quake
+-15% stamina cost
+None
+None
++20% attack speed
+None
+None
+unlock quake
+None
+None
+Level 1: -15% Stamina cost for attacks<br>Level 2: +20% Attack Speed<br>Level 3: Unlocks Quake: press Q to slam the ground, dealing damage and knockdown chance.
+blunt
+
+ENTRY
+lvl 1
+Epicenter
+None
+None
+quake
+When Quake is performed from midair, its area of effect and damage scale with fall speed and distance (not included in calculations)
+blunt
+
+ENTRY
+lvl 1
+Aftershock
+None
++30 stamina
+quake
++30 stamina for each enemy hit with quake (Not included in stamina calculations)
+blunt
+
+ENTRY
+lvl 1,15,Calm Mind
+Ripple Effect
+None
+None
+None
++15% health for each enemy hit by Quake (Not included in health calculations)
+blunt
+
+//
+
+ENTRY
+lvl 1,4,None
+Fury Road
+None
+None
+driving
+In vehicle collisions:<br>+50% damage to enemy vehicles, -50% to yours<br>You take no damage
+vehicles
+
+ENTRY
+lvl 1,20,Spontaneous Obliteration
+Rip And Tear
+None
++100% damage 
+quick melee
++100% damage for next Q. Melee Attack/Shotgun Shot after hitting enemy with Shotgun Shot/Q. Melee Attack (respectively)
+shotgun
+
+ENTRY
+lvl 1,20,Spontaneous Obliteration
+Onslaught
+None
++20% ammo
+kill
++20% ammo refill after neutralizing an enemy with LMG
+lmg
+
+ENTRY
+lvl 1,20,Adrenaline Rush
+Pain to Gain
+None
++20% health item
+adrenaline rush
+When Adrenaline Rush is active:<br>+20% Health Item on kill
+All
+
+ENTRY
+lvl 1,20,Quake
+Finisher: Savage Sling
+unlock blunt finisher
+None
+None
+Unlocks Blunt Finisher. press F to activate, hold F to throw enemy instead. Restores 20% Health
+blunt

@@ -1,0 +1,382 @@
+ENTRY
+lvl 1,4,None
+Eye in the Sky
+None
+None
+None
+Automatically highlights access points and cameras. Control, covert and distract enemies quickhacks have -1 RAM cost and +50% duration when uploaded through cameras.
+All
+
+ENTRY
+lvl 1
+Warning: Explosion Hazard
+None
+None
+None
++40% explosion damage from hacked devices, +80% additional explosion damage to enemies affected by quickhacks.
+All
+
+ENTRY
+lvl 1
+Forcekill Cypher
+None
+None
+None
+Reduces sequence length required to hack Access Points by 1. (Cannot be reduced below 2)
+All
+
+//
+
+ENTRY
+lvl 2,9,Eye in the Sky
+Hack Queue
++1 RAM
+None
+None
+None
+None
+None
+Level 1: +1 RAM<br>Level 2: Unlocks Quickhack Queues. +30% upload speed for the second quickhack in a queue.
+All
+
+ENTRY
+lvl 1
+Counter-A-Hack
+None
+None
+None
+When a netrunner is hacking you, you can counterquickhack them through walls, -1 RAM cost for counter quickhacks
+All
+
+ENTRY
+lvl 1,9,Counter-A-Hack
+Copy-Paste
+None
+None
+None
+Counterquickhacks from Counter-A-Hack will spread to allies.
+All
+
+ENTRY
+lvl 1
+Data Recycler
+None
+None
+None
+After neutralizing an enemy, recover 80% of the RAM cost for quickhacks still in their queue
+All
+
+ENTRY
+lvl 1
+Feedback Loop
+None
++100% RAM recovery
+quickhack queue
++25% RAM recovery rate for each quickhack currently in queue (+100% in calculations)
+All
+
+//
+
+ENTRY
+lvl 3,15,Hack Queue
+Queue Acceleration
++1 RAM
+None
+None
+None
+None
+None
+None
+None
+None
+Level 1: +1 RAM<br>Level 2: -1 RAM cost to quickhack devices and vehicles<br>Level 3: +1 quickhack queue size, +60 upload speed for quickhack third or later in queue.
+All
+
+ENTRY
+lvl 1
+Queue Hack_Root
+None
+None
+None
+-1 RAM cost for the first quickhack of each unique category second or later in queue.
+All
+
+ENTRY
+lvl 1
+Queue Prioritization
+None
+None
+None
++50% upload speed for the first quickhack when you have at least 2 quickhacks queued on an enemy.
+All
+
+ENTRY
+lvl 1
+Finisher: Live Wire
+unlock finisher
+None
+None
+Unlocks a Monowire Finisher. The more quickhacks you have queued on an enemy, the more susceptible they are. Restores 15% Health and 5 RAM.
+Monowire
+
+//
+
+ENTRY
+lvl 1,4,None
+Optimization
++35% RAM recovery rate
+None
+None
++35% RAM recovery rate.
+All
+
+ENTRY
+lvl 1
+Encryption
+None
+None
+None
+-30% traceability for all quickhacks.
+All
+
+ENTRY
+lvl 1
+Subordination
+None
+None
+None
++100% duration for Control quikchacks used on full-health enemies.
+All
+
+ENTRY
+lvl 1
+Proximate Propagation
+None
+None
+None
+Reduced RAM cost the closer you are to your target (max -35%)
+All
+
+//
+
+ENTRY
+lvl 2,9,Optimization
+Embedded Exploit
++10% RAM recovery
+None
+None
+None
++60% quickhack damage
+affected by QH
+Level 1: +10% RAM recovery<br>Level 2: +60% quickhack damage against enemies affected by Control quickhacks, Covert quickhacks or the Distract Enemies quickhack.
+All
+
+ENTRY
+lvl 1
+System Overwhelm
+None
++14% quickhack damage
+affected by QH
++7% quickhack damage for each unique quickhack and DOT effect affecting the target.
+All
+
+ENTRY
+lvl 1
+Speculation
+None
+None
+None
+Neutralizing an enemy recovers RAM equal to 25% of the total cost of all quickhacks affecting the target.
+All
+
+ENTRY
+lvl 1
+ICEPick
+None
+None
+None
+-1 RAM cost for combat quickhacks on enemies affected by Control, Covert or Distract Enemies quickhacks.
+All
+
+ENTRY
+lvl 1,9,ICEPick
+Siphon
+None
+None
+None
+Monowire attacks recover 0.5 RAM, doubles if target is affected by a quickhack.
+All
+
+ENTRY
+lvl 1
+Shadowrunner
+None
+None
+None
+-100% trace progress after performing a takedown.
+All
+
+//
+
+ENTRY
+lvl 3,15,Embedded Exploit
+Overclock
++10% RAM recovery
+None
+None
++10% quickhack damage
+None
+None
+unlock Overclock
+None
+None
+Level 1: +10% RAM recovery rate<br>Level 2: +10% quickhack damage<br>Level 3: Unlocks Overclock, allows you to spend Health points for Quickhacks when insufficient RAM is available.
+All
+
+ENTRY
+lvl 1
+Power Surge 
+None
+None
+None
+Activating Overclock instantly restores Health equal to 5 times your max RAM.
+All
+
+ENTRY
+lvl 1
+Race against Mind
+None
++50% quickhack damage
+low health
+When Overclock is active: increased quickhack damage as health decreases (max. +50%).
+All
+
+ENTRY
+lvl 1
+Sublimation
+None
+unlock RAM health recovery
+Overclock
+When Overclock is active, all RAM recovery effects also regenerate Health.
+All
+
+ENTRY
+lvl 1,15,Queue Hack_Root
+Blood Daemon
+None
+None
+None
+When Overclock is active: +25 health for each quickhack queued on an enemy at the time you neutralize them.
+All
+
+//
+
+ENTRY
+lvl 2,9,None
+Acquisition Specialist
+None
+None
+None
+None
+None
+None
+Level 1:+10% larger target reticle<br>Level 2: reloading doesn't interrupt target lock, +15%/+20% lock on speed when hip firing/aiming.
+smart weapons
+
+ENTRY
+lvl 1
+No Escape
+None
+None
+None
+Shooting an enemy resets their target lock.
+smart weapons
+
+ENTRY
+lvl 1
+Precision Subroutines
+None
+None
+None
++2% accuracy with smart weapons for each unit in your max RAM.
+smart weapons
+
+ENTRY
+lvl 1,9,Speculation
+Recirculation
+None
+None
+None
++2 RAM after neutralizing an enemy. If affected by a quickhack, restores 50% of their total RAM cost.
+smart weapons
+
+ENTRY
+lvl 3,15,Acquisition Specialist
+Target Lock Transfer
+None
+None
+None
+None
+None
+None
+None
+None
+None
+Level 1:10% larger reticle<br>Level 2: Switching from aiming to hip-fire does not disengage headshot target-lock<br>Level 3: Switching weapons does not interrupt target lock.
+smart weapons
+
+ENTRY
+lvl 1,15,Target Lock Transfer
+Targeting Prism
+None
+None
+None
+Increases number of simultaneous targets by 1.
+smart weapons
+
+ENTRY
+lvl 1,15,Target Lock Transfer
+Terminal Velocity
+None
+None
+None
+Increased velocity and lock-on range for 10 seconds after neutralizing, stacks 3 times.
+smart weapons
+
+//
+
+ENTRY
+lvl 1,4,None
+Carhacker
+None
+None
+None
+Unlocks vehicle quickhacks.
+Cyberdeck
+
+ENTRY
+lvl 1,20,Queue Acceleration
+Queue Mastery
+None
++15% damage
+quickhack queue
++1 QH queue size. Last quickhack in queue has -50% RAM cost and locks the queue until all quickhacks have been uploaded. +15% damage against enemies with a locked queue
+All
+
+ENTRY
+lvl 1,20,Overclock
+Spillover
+None
+None
+None
+When Overclock is active, +50% chance for quickhacks to spread to an additional target.
+All
+
+ENTRY
+lvl 1,20,Target Lock Transfer
+Smart Synergy
+None
++25% damage
+affected by QH
+When Overclock is active, smart weapons gain instant target lock, and +25% damage if the enemy is affected by a quickhack.
+smart weapons

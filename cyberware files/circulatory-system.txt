@@ -1,0 +1,107 @@
+ENTRY
+Adrenaline Booster
+14
+None
+None
+None
++25% Stamina whenever you use a melee weapon to neutralize an enemy.
+refl, +0.1% crit chance
+
+ENTRY
+Biomonitor
+14
++16% health item effectiveness
+None
+None
+Automatically heals you with your equipped Health Item when your Health drops below 50%
+tech, +0.1% health item efficiency
+
+ENTRY
+Black Mamba
+16
+None
++22% damage
+poisoned
+Against Poisoned enemies:<br>-90% Poison damage<br>+22% all other damage
+refl, +0.1% crit chance
+
+ENTRY
+Blood Pump
+15
+unlock blood pump 
++23% health regen
+health item
+Functions as a powerful Health Item.<br>Instantly restores 110 Health, then regenerates 23 Health per second for 6 sec.
+tech, +0.1% health item efficiency
+
+ENTRY
+Clutch Padding
+12
+None
+None
+None
+-20% Stamina Cost for shooting
+body, +0.5 health
+
+ENTRY
+Isometric Stabilizer
+40
+None
+None
+None
+[Iconic];-20% Stamina cost for all attacks.
+refl, -0.5% stamina cost for all attacks
+
+ENTRY
+Electromag Recycler
+40
+None
+None
+None
+[Iconic];+5% Health and Stamina when you hit an enemy with a fully charged Tech weapon shot.
+tech, +1% health item effectiveness
+
+ENTRY
+Feedback Circuit
+14
+None
+None
+None
+-3.5% Health when you hit an enemy with a fully charged Tech weapon shot.
+tech, +0.1% tech damage
+
+ENTRY
+Heal-On-Kill
+10
+None
+None
+None
++7.5% Health when you neutralize an enemy.
+int, +0.05% damage
+
+ENTRY
+Microrotors
+12
++25% attack speed: melee
+None
+None
++25% Melee attack speed.
+refl, +0.1% crit chance
+
+ENTRY
+Second Heart
+30
+None
+None
+None
++100% Health when your Health reaches 0.<br>Cooldown: 220 sec.
+body, +0.5 health
+
+ENTRY
+ThreatEvac 
+5
+None
++39% movspeed 
+low health
++29% movement speed when your Health drops to 25%.<br>The more your Health drops, the more movement speed increases (max. +39%).
+int, +0.05% damage

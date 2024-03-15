@@ -1,0 +1,149 @@
+ENTRY
+Chrome Compressor
+
+0
++70 cyb cap
+[Iconic];+70 Cyberware Capacity
+none
+
+ENTRY
+BioDyne
+Berserk
+20
++30% attack speed, +20% crit chance, +100% crit damage, +50% damage reduction
+When active:<br>+50% damage reduction<br>Health cannot drop below 25%<br>Cannot use items<br>Melee weapons only<br>+30% attack speed<br>-100% Stamina cost<br>+20% Crit Chance<br>+100% Crit Damage<br><br>When it ends: <br>+25% Health for each enemy neutralized.<br>Duration: 11 sec.<br>Cooldown: 35 sec.
+refl, +1% crit chance
+
+ENTRY
+Militech
+Berserk
+35
++30% attack speed, +20% movspeed, +50% damage
+[Iconic];When active:<br>Invulnerable to damage.<br>Cannot use items<br>Melee weapons only<br>+30% attack speed<br>-100% Stamina cost<br>+20% Movement Speed<br>Increased damage at low Health (max +50% damage when below +20% Health)<br><br>When it ends:<br>+25% Health for each enemy neutralized.<br>Duration: 12 sec.<br>Cooldown: 25 sec.
+body, +0.5% damage
+
+ENTRY
+Moore Tech
+Berserk
+12
+50% damage reduction
+When active:<br>+50% damage reduction<br>Health cannot drop below 25%<br>Cannot use items<br>Melee weapons only<br>-100% Stamina cost<br><br>When it ends:<br>+25% Health for each enemy neutralized.<br><br>Duration: 11 sec.<br>Cooldown: 25 sec.
+body, +0.5% damage
+
+ENTRY
+Zetatech
+Berserk
+16
++20% attack speed, -30% fall damage, +50% damage reduction
+When active:<br>+50% damage reduction<br>Health cannot drop below 25%<br>Cannot use items<br>Melee weapons only<br>+20% attack speed<br>-100% Stamina cost<br>-30% fall damage<br>While in midair with a Blunt weapon, allows the use of Superhero Landings.<br><br>When it ends:<br>+25% Health for each enemy neutralized.<br>Duration: 11 sec.<br>Cooldown: 25 sec.
+body, +0.5% damage
+
+ENTRY
+Dynalar
+Sandevistan
+18
++15% crit chance, +15% crit damage
+Press to activate and deactivate.<br>When active:<br>Slows time by 50% (you are not slowed)<br>+15% Crit Chance<br>+15% Crit Damage<br><br>Max duration: 8 sec.<br>Cooldown: 55 sec.
+refl, +0.1 sec duration
+
+ENTRY
+Militech Apogee
+Sandevistan
+44
++20% headshot damage, +20% crit chance, +20% crit damage
+[Iconic];Can be activated at any charge level.<br>When active:<br>Slows time by 85% (you are not slowed)<br>+20% headshot damage<br>+20% Crit Chance<br>+20% Crit Damage<br><br>Neutralizing an enemy when active gives:<br>+10% extended duration<br>+22% Stamina<br><br>Max duration: 6 sec.<br>Cooldown: 25 sec.
+refl, +0.1 sec duration
+
+ENTRY
+Militech Falcon
+Sandevistan
+39
++10% damage, +15% crit chance, +10% crit damage
+[Iconic];Can be activated at any charge level.<br>When active:<br>Slows time by 70% (you are not slowed)<br>+10% damage<br>+15% Crit Chance<br>+10% Crit Damage<br><br>Neutralizing an enemy when active gives:<br>+5% extended duration<br>+12% Health<br><br>Max duration: 10 sec.<br>Cooldown: 30 sec.
+refl, +0.1 sec duration
+
+ENTRY
+QianT Warp Dancer
+Sandevistan
+14
++24% mit chance, +12% mit strength, +50% elemental resistance
+When active:<br>Slows time by 20% (you are not slowed)<br>+24% Mitigation Chance<br>+12% Mitigation Strength<br>+50% resistance to Thermal, Chemical and Electrical damage<br><br>Max Duration: 9 sec.<br>Cooldown: 70 sec.
+refl, +0.1 sec duration
+
+ENTRY
+Zetatech
+Sandevistan
+20
++12% damage
+When active:<br>Slows time by 30% (you are not slowed)<br>+12% damage<br><br>When active in midair:<br>Slows time by 60%<br>+24% damage<br>+40% headshot and weakspot damage<br>-30% fall damage<br><br>Max duration: 6 sec.<br>Cooldown: 45 sec.
+refl, +0.1 sec duration
+
+ENTRY
+Arasaka
+Cyberdeck
+14
+9
+8
+4
+None
+Allows you to perform quickhacks on enemies and devices while scanning.<br>Enemies take 40% longer to trace your position.<br>-2 RAM cost for Covert quickhacks.<br>+5 RAM after performing a Takedown.<br>When Overclock is active, quickhacks will not increase trace progress (but will still initiate it).
+
+ENTRY
+Biotech Sigma
+Cyberdeck
+16
+9
+8
+4
++25% damage: affected by QH: monowire
+Allows you to perform quickhacks on enemies and devices while scanning.<br>+15% duration for Combat quickhacks.<br>+10% damage-over-time with quickhacks.<br>+25% Monowire damage against enemies affected by a damage-over-time effect.<br>Activating Overclock resets the duration of quickhack damage-over-time effects.
+
+ENTRY
+Canto
+Cyberdeck
+33
+10
+4
+12
+None
+[Iconic];Allows you to perform quickhacks on enemies and devices while scanning.<br>Unlocks the Blackwall Gateway quickhack.
+
+ENTRY
+Militech Paraline
+Cyberdeck
+14
+9
+8
+4
++10% quickhack damage: None: All; +30% damage: low ram: monowire; +25% damage: overclock: smart weapon; +25% damage: overclock: monowire
+Allows you to perform quickhacks on enemies and devices while scanning.<br>+10% quickhack damage.<br>+2% Monowire damage per used RAM unit (max. +30%).<br>When on uploading a quickhack to an enemy, shooting them with a Smart weapon will accelerate upload speed.<br>When Overclock is active:<br>Smart weapons and Monowire deal bonus Electrical damage equal to 25% of normal attack damage.
+
+ENTRY
+Netwatch Netdriver
+Cyberdeck
+25
+13
+8
+4
++15% damage: through device: All
+Allows you to perform quickhacks on enemies and devices while scanning.<br>-20% traceability for quickhacks uploaded through cameras.<br>-50% RAM cost for Device and Vehicle quickhacks.<br>Combat quickhacks uploaded through devices gain: +15% damage, +20% effect duration
+
+ENTRY
+Raven Microcyber
+Cyberdeck
+20
+9
+8
+4
+None
+Allows you to perform quickhacks on enemies and devices while scanning.<br>+40% spread distance with quickhacks.<br>Quickhacks spread to all valid enemies immediately instead of waiting for the initial upload to finish.<br>When Overclock is active: +15% chance for any quickhack to spread to 2 nearby enemies.
+
+ENTRY
+Tetratronic Rippler
+Cyberdeck
+16
+20
+8
+4
++15% damage: affected by QH: weapon; +40% quickhack damage: queue: All
+Allows you to perform quickhacks on enemies and devices while scanning.<br>+15% weapon damage against enemies affected by non-Combat quickhacks.<br>+40% damage with Combat quickhacks when immediately followed by a non-Combat quickhack in the queue.<br>+12 Max RAM.<br>When activating Overclock, automatically upload Reboot Optics and Weapon Glitch to all enemies within 8 m.

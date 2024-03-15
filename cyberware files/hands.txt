@@ -1,0 +1,80 @@
+ENTRY
+Ballistic Coprocessor
+2
++30% ricochet damage
+None
+None
+Increased Ricochet chance with Power weapons.<br>+30% ricochet damage.
+tech, +0.1% ricochet damage
+
+ENTRY
+Handle Wrap
+10
++27% crit chance: throwable
+None
+None
+When equipping or throwing a throwable weapon:<br>+27% Crit Chance with throwable weapons for 6 sec. (Active in both low and high calculations)
+cool, +0.2% headshot damage
+
+ENTRY
+Immovable Force
+35
+None
+None
+None
+[Iconic];-35% recoil,<br> -25% bullet spread.<br>Automatically activates effects for ranged weapons that otherwise only occur when behind cover.
+none
+
+ENTRY
+Microgenerator
+10
+None
+None
+None
+Reloading an empty weapon causes the next shot to release an electroshock that deals up to 250 Electrical damage to enemies near the point of impact. Damage increases with the number of bullets reloaded (max 5).
+int, +0.05% damage
+
+ENTRY
+Shock Absorber
+12
+None
+None
+None
+-24% recoil
+cool, +0.2% headshot damage
+
+ENTRY
+Smart Link
+4
++2 ram, +15% crit damage: smart weapon
+None
+None
+Enables the use of smart targeting in Smart weapons.<br>+20% target-lock duration<br>+15% Crit Damage with Smart weapons.<br>Directly links the user's optical implant to the weapon's system, offering real-time data-tracking of the weapon info.<br>+2 Max RAM
+int, +0.1% smart damage
+
+ENTRY
+Tattoo: Tyger Claws Dermal Imprint
+0
+None
+None
+None	
+Enables the use of smart targeting in Smart weapons.<br>+20% lock-on speed<br>20% smaller Smart-targeting reticle<br>Directly links the user's optical implant to the weapon's system, offering real-time data-tracking of the weapon info.
+none
+
+ENTRY
+Tattoo: Johnny's Special
+0
+None
+None
+None
+Enables the use of smart targeting in Smart weapons.<br>Directly links the user's optical implant to the weapon's system, offering real-time data-tracking of the weapon info.
+none
+
+ENTRY
+Tattoo: Together Forever
+0
+None
+None
+None
+Enables the use of smart targeting in Smart weapons.<br>Directly links the user's optical implant to the weapon's system, offering real-time data-tracking of the weapon info.
+none

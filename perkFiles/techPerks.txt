@@ -1,0 +1,341 @@
+ENTRY
+lvl 1,4,None
+Glutton for War
+None
+None
+None
+5% instant recharge of Health items and grenades after neutralizing an enemy.
+All
+
+ENTRY
+lvl 1
+Transfusion
+None
+None
+None
++30% health from the final charge of your health items
+All
+
+ENTRY
+lvl 1
+First Aid
+None
+None
+None
++15% recharge speed of Health Items when you've only used 1 charge.
+All
+
+//
+
+ENTRY
+lvl 2,9,Glutton for War
+Health Freak
+None
+None
+None
+None
+None
+None
+Level 1: +8% recharge speed for Health Items and genades<br>Level 2: +1 Health item charge, +150% recharge speed for health items outside combat
+All
+
+ENTRY
+lvl 1
+Field Medic
+None
+None
+None
+15% Faster use of Health items in combat
+All
+
+ENTRY
+lvl 1
+Demolitions Surplus
+None
+None
+None
++1 max grenade charge, +250% recharge speed for grenades outside of combat
+All
+
+ENTRY
+lvl 1
+Borrowed Time
+None
+None
+None
+Instant health item recharge when neutralizing below 25% with no charges left.
+All
+
+ENTRY
+lvl 1
+Coming in Hot
+None
+None
+None
++50% recharge speed for grenades when you have none available.
+All
+
+//
+
+ENTRY
+lvl 3,15,Health Freak
+Pyromania
+None
+None
+None
+None
+unlock Pyromania
+None
+None
++25% movspeed
+explosion hit
+Level 1: +8% item recharge speed<br>Level 2: +10% explosion radius for grenades and PLS<br>Level 3: +5% mov. speed and 10% explosion damage when hitting an enemy with an explosion. Stacks 5 times.
+All
+
+ENTRY
+lvl 1
+Flash Sale
+None
+None
+None
+For Flash, Smoke and Recon grenades:<br>Double grenade charges and recharge rates
+All
+
+ENTRY
+lvl 1
+Friendlier fire
+None
+None
+None
++50% Resistance to damage and effects from explosions you cause.
+All
+
+ENTRY
+lvl 1
+Burn This City
+None
+None
+None
+When getting 5 stacks of Pyromania, they will be consumed into a grenade charge, while the bonuses remain active for 6 sec.
+All
+
+ENTRY
+lvl 1
+Heat Shield
+None
++50% mit chance
+Pyromania
++10% Mitigation Chance per stack of Pyromania.
+All
+
+//
+
+ENTRY
+lvl 2,9,None
+All Things Cyber
+None
+None
+None
+-20% cyberware cost
+None
+Integumentary, Skeleton
+Level 1: +10% to all cyberware stats modifiers (Not in calculations)<br>Level 2: -20% Cyberware Capacity cost for cyberware in Integumentary System and Skeleton.
+All
+
+ENTRY
+lvl 1
+Lucky Day
+None
+None
+None
++25% crafting components from looting
+All
+
+ENTRY
+lvl 1
+Driver Update
+None
+None
+None
+All cyberware gain an additional stat modifier
+All
+
+ENTRY
+lvl 1,9,Driver Update
+Chipware Connoisseur
+None
+None
+None
+Upgrading Cyberware allows you to choose between 3 options for stat modifiers.
+All
+
+ENTRY
+lvl 1
+Renaissance Punk
+None
+None
+None
++4 Cyberware Capacity for each Attribute at 9 or higher
+All
+
+ENTRY
+lvl 1
+Chrome Constitution
+None
+-5% inc damage
+Integumentary, Skeleton
+-5% incoming damage if all Integumentary System and Skeleton cyberware slots are filled
+All
+
+//
+
+ENTRY
+lvl 3,15,All Things Cyber
+License To Chrome
+None
+None
+None
++40 armor
+None
+None
+unlock skeletonslot
+None
+None
+Level 1: +10% to all cyberware stat modifiers.<br>Level 2: +40 armor.<br>Level 3: Unlocks extra Cyberware slot for the skeleton.
+All
+
+ENTRY
+lvl 1
+Built Different
+unlock Cellular Adapter
+None
+None
+Unlocks Cellular Adapter cyberware for the Integumentary System.
+All
+
+ENTRY
+lvl 1
+Extended Warranty
++15% cyberware duration
+None
+None
++15% duration for all cyberware effects.
+All
+
+ENTRY
+lvl 1
+Ambidextrous
+unlock handsslot
+None
+None
+Unlocks an extra cyberware slot for your Hands.
+All
+
+ENTRY
+lvl 1,15,Friendlier Fire
+Doomlauncher
+None
+None
+None
+PLS receives: +1 charge, +20% recharge speed, +25% additional recharge if you have no charges, +200% additional recharge speed outside of combat, +5% instant recharge on kill.
+All
+
+ENTRY
+lvl 1
+Cyborg
+None
+-15% cyberware cooldown
+all slots filled
+15% reduced Cooldown for all cyberware if all available slots are filled
+All
+
+//
+
+ENTRY
+lvl 3,15,None
+Bolt
+None
+None
+None
+None
+None
+None
+unlock bolt 
++30% damage
+bolt
+Level 1: +20% charge speed for tech weapons.<br>Level 2: +15% damage for charged shots.<br>Level 3: Unlocks Bolt shots. Release the trigger right before full charge. +30% damage, -50% cover penetration penalty.
+tech
+
+ENTRY
+lvl 1
+Shock Value
+None
+enemy armor = 0%
+bolt
+Bolt shots ignore enemy Armor.
+tech
+
+ENTRY
+lvl 1
+In Charge 
+None
+None
+None
+Tech weapons no longer fire automatically when reaching full charge.
+tech
+
+ENTRY
+lvl 1
+Internal Clock
+None
+None
+None
+Increased bolt time window
+tech
+
+ENTRY
+lvl 1
+Lightning Storm
+None
+None
+None
++10% charge speed after firing a Bolt. stacks 3 times. Resets when swapping or firing a non-bolt shot.
+All
+
+//
+
+ENTRY
+lvl 1,4,None
+Gearhead
+None
+None
+None
++33% Vehicle Health.<br>Vehicle Mounted weapons receive:<br>+25% damage<br>-0,7 sec. lock-on time.
+vehicles
+
+ENTRY
+lvl 1,20,Pyromania
+Ticking Time Bomb
+None
+None
+None
+Charges powerful EMP that hits nearby enemies after 3 seconds when you activate Operating System Cyberware. Applies stun and damage proportionate to the cyberware implants installed. -50% incoming damage while charging EMP.
+All
+
+ENTRY
+lvl 1,20,License to Chrome
+Edgerunner
+unlock Fury
++10% damage, +30% crit chance, +50% crit damage
+Fury
+Allows you to exceed your cyberware capacity by up to 50 points, but each point over your limit costs -0.5% max health.<br>When neutralizing an enemy, there is a 0.1% chance per point to enter Fury. In this state you gain:<br>+10% damage, +30% crit chance, +50% crit damage.
+All
+
+ENTRY
+lvl 1,20,Bolt
+Chain Lightning
+None
+None
+None
+Bolt now deals Electrical damage and releases an electric arc that can electrocute up to 3 nearby enemies.
+tech

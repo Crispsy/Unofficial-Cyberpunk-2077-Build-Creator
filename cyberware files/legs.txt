@@ -1,0 +1,49 @@
+ENTRY
+Fortified Ankles
+6
+None
+None
+None
+Allows you to perform charged jumps.
+56
+body, +0.5 health
+
+ENTRY
+Jenkins' Tendons
+6
+None
+None
+None
+Increases Sprint Speed, starting at 30% and tapering off to +10% after 5 sec. of continued sprinting. The effect recovers at the same rate when not sprinting.
+22
+body, +0.5 health
+
+ENTRY
+Leeroy Ligament System
+8
++20% movspeed
+None
+None
+[Iconic];+20% Movement Speed
+26
+none
+
+ENTRY
+Lynx Paws
+5
+-20% fall damage
++12% movspeed
+crouched
++50% quieter movement<br>+12% crouched movement speed<br>-20% fall damage
+34
+cool, +0.2% headshot damage
+
+ENTRY
+Reinforced Tendons
+8
+None
+None
+None
+Allows you to double jump
+44
+refl, +0.1% crit chance

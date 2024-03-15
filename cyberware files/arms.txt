@@ -1,0 +1,59 @@
+ENTRY
+Gorilla Arms
+8
+blunt
+
++4 to Body attribute checks.<br>Deal Physical damage.<br>20% Bleeding chance
+Electrifying
++4 to Body attribute checks.<br>Deal Electrical damage.<br>10% Shock chance
+Thermal
++4 to Body attribute checks.<br>Deal Thermal damage.<br>10% Burn chance.
+Toxic
++4 to Body attribute checks.<br>Deal Chemical damage<br>10% Poison chance.
+none
+none
+
+ENTRY
+Mantis Blades
+8
+blade 
+
+Deal Physical damage.<br>20% Bleeding chance.
+Electrifying
+Deal Electrical damage.<br>20% Shock chance.
+Thermal
+Deal Thermal damage.<br>20% Burn chance.
+Toxic
+Deal Chemical damage.<br>20% Poison chance.
+Maxtac
+Deal Physical damage.<br>20% Bleeding chance.
+
+ENTRY
+Monowire
+8
+all
+
+Deal Physical damage.
+Electrifying
+Deal Electrical damage.
+Thermal
+Deal Thermal damage.
+Toxic
+Deal Chemical damage.
+none
+none
+
+ENTRY
+Projectile Launch System
+8
+all
+
+Deal Physical damage.<br>Charged shots gain:<br>+30% damage<br>+25% explosion radius<br>+40% dismemberment chance
+Electrifying
+Deal Electrical damage. Small Shock Chance.<br>Charged shots gain:<br>+30% damage<br>+25% explosion radius<br>+100% Shock Chance
+Thermal
+Deal Thermal damage. Small Burn Chance.<br>Charged shots gain:<br>+30% damage<br>+25% explosion radius<br>+30% Burn Chance
+Toxic
+Deal Chemical damage. Small Poison Chance.<br>Charged shots gain:<br>+30% damage<br>+25% explosion radius<br>+30% Poison Chance
+none
+none

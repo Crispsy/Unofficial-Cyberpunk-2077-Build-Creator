@@ -1,0 +1,15 @@
+ENTRY
+Empty
+None
+Iconic
+Intrinsic
+none
+none
+0
+0
+0
+0
+0
+0
+0
+0

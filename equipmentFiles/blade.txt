@@ -1,0 +1,203 @@
+ENTRY
+Black Unicorn
+katana
+Crafted for perfect balance, attack speed is not affected by stamina.
+none
+none
+none
+2.1
+148
+6.4
+25
+
+ENTRY
+Cut-O-Matic
+chainsword
+none
+The Unsettling noise this weapon produces will alert enemies and cause civilians to panic. Charge Time: 1.20 sec.
+none
+none
+1.4
+191
+9.6
+50
+
+ENTRY
+Butchers Cleaver
+knife
+Definition of "bloodthirsty." When your enemy is bleeding, the cleaver attacks faster and uses less stamina.
+none
++39% attack speed, -40% stamina cost
+bleeding
+1.8
+201
+8
+25
+
+ENTRY
+Byakko
+katana
+Byakko's perfect balancing allows you to leap towards an enemy with full force. Killing them allows you to temporarily perform a rapid combo of attacks.
+none
++17.5% attack speed
+kill
+2.1
+148
+6.4
+25
+
+ENTRY
+Cocktail Stick
+katana
+Looks like a toy, but its lethality is no joke. When Optical Camo is active, hitting an enemy causes Bleeding. Bleeding caused in this way lasts longer than usual.
+none
+none
+none
+2.1
+133
+6.4
+25
+
+ENTRY
+Cut-O-Matic x-MOD2
+chainsword
+A special version of the weapon capable of additional modification. Optimized design also allows for improved handling.
+The unsettling noise this weapon produces will alert enemies and cause civilians to panic. Charge time: 1.0 sec.
+none
+none
+1.4
+191
+9.6
+50
+
+ENTRY
+Errata
+katana
+Allows you to leap toward enemies. Attacking Burning enemies guarantees Crit Damage
+none
+crit chance = 100%
+enemies hit
+2.1
+133
+6.4
+25
+
+ENTRY
+Gwynbleidd
+sword
+Deals extra damage against bosses. After killing enemies in rapid succession, all attacks are temporarily guaranteed Crit Hits. The effect refreshes after quickly killing another enemy. If your Health is critically low, all attacks are guaranteed Crit Hits regardless of kills.
+none
+crit chance = 100%; crit chance = 100%; +10% damage
+kills; low health; boss enemy
+1.9
+148
+6.4
+25
+
+ENTRY
+Jinchu-maru
+katana
+The last hit in a combo guarantees Crit damage (Calculated as +33% Crit Chance in stats). While Optical Camo is active, all hits are critical and allow you to leap toward your target. Increases damage against Elite enemies.
+none
++33% crit chance; crit chance = 100%; +10% damage
+none; optical camo; elite enemies
+2.1
+148
+6.4
+25
+
+ENTRY
+Katana
+katana
+none
+none
+none
+none
+2.1
+148
+6.4
+25
+
+ENTRY
+Kukri
+machete
+none
+none
+none
+none
+1.7
+181
+9.6
+25
+
+ENTRY
+Machete
+machete
+none
+none
+none
+none
+1.7
+181
+9.6
+25
+
+ENTRY
+Satori
+katana
+Allows you to leap towards distant enemies. When Satori is sheathed, hold primary attack to perform a Quickdraw Attack that is guaranteed to inflict Bleeding. If the enemy is already affected by Bleeding from Nehan, Satori will cause hemorrhaging instead. Hemorrhaging drains enemy Health and regenerates yours.
+none
+none
+none
+2.1
+133
+6.4
+25
+
+ENTRY
+Scalpel
+katana
+While Sandevistan is active, increases Crit Chance by 50% and hits apply Bleeding.
+none
++50% crit chance
+sandevistan
+2.1
+148
+6.4
+25
+
+ENTRY
+Razor
+machete
+none
+none
+none
+none
+1.5
+217
+9.6
+25
+
+ENTRY
+Tsumetogi
+katana
+Slightly increases Electrical damage and grants a small chance to apply Shock to the enemy. Non-standard attacks deal more damage.
++10% Electrical Resistance
++5% damage
+blockingsprintingjumpingcrouching
+2.1
+163
+6.4
+25
+
+ENTRY
+Volkodav
+machete
+Part of a special Techtronika weapon series that was banned due to humanitarian concerns. Grants a chance to inflict a unique burn on the enemy. Hitting an enemy affected by this burn always deals Crit Damage. The more enemies simultaneously affected by this burn, the more Crit Damage you deal but at the cost of accuracy.
+none
+crit chance = 100%
+enemies hit
+1.5
+195
+9.6
+25

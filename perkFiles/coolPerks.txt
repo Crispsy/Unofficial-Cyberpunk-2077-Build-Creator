@@ -1,0 +1,370 @@
+ENTRY
+lvl 2,9,None
+Focus
++10% headshot damage
+None
+None
+unlock Focus
+None
+None
+Level 1: +10% headshot and weakspot damage.<br>Level 2: Unlocks Focus mode. Activates when aiming at full stamina. No stamina cost for shooting when active.
+pistol, revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1
+Pull!
+None
+None
+None
+When Focus is active, shooting grenades out of the air is easier and produces a more powerful blast.
+pistol, revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1
+Head To Head
+None
+None
+None
+When Focus is active, neutralizing will reset the duration.
+pistol, revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1,9,Head To Head
+Deep Breath
+None
+None
+None
+Time slows by 25% while Focus is active
+pistol, revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1
+Rinse and Reload
+None
+None
+None
++10 reload speed for your next reload after neutralizing while aiming
+pistol, revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1
+No Sweat
+None
+None
+None
+-50% stamina cost from Focus for each enemy neutralized
+pistol, revolver, precision rifle, sniper rifle
+
+//
+
+ENTRY
+lvl 3,15,Focus
+Deadeye
++10% headshot damage
+None
+None
+None
+None
+None
+unlock deadeye
++25% headshot damage
+deadeye
+Level 1: +10% headshot damage<br>Level 2: -25% stamina cost for shooting.<br>Level 3: unlocks Deadeye. Active above 85% stamina. +25% headshot damage when active.
+pistol, revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1
+Long Shot 
+None
+effective range = inf 
+deadeye
+When Deadeye is active, your shots always deal full damage regardless of distance.
+pistol, revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1
+Quick Draw
+None
+None
+None
++30% weapon swap speed when swapping, +30% stamina when swapping during combat
+pistol, revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1
+High Noon
+None
+None
+None
+When Deadeye is active: +35% reload speed for your next reload after neutralizing via headshot. Slows time by 50% during reload.
+pistol, revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1
+California Reaper
+None
+None
+None
++30% stamina after neutralizing an enemy with a ranged attack via headshot or weak spot
+pistol, revolver, precision rifle, sniper rifle
+
+//
+
+ENTRY
+lvl 1,4,None
+Feline Footwork
+None
++15% movspeed, +15% mit chance
+crouching
+When crouched: +15% Movement Speed. +15% Mitigation Chance.
+All
+
+ENTRY
+lvl 1
+Unexposed
+None
++20% mit chance
+aiming from cover
++20% Mitigation Chance when aiming from cover.
+All
+
+ENTRY
+lvl 1
+Blind spot
+None
+None
+None
+When crouched, the higher your Mitigation Chance, the longer it takes for enemies to detect you.
+All
+
+ENTRY
+lvl 1
+Small Target
+None
++20% mit chance
+crouched, movspeed = 0%
++20% Mitigation Chance when crouched and not moving.
+All
+
+//
+
+ENTRY
+lvl 3,15,Feline Footwork
+Ninjutsu
+None
++15% movspeed
+crouched
+None
++15% mit chance
+crouching
+unlock crouchsprint
+None
+None
+Level 1: +15% crouch movement speed<br>Level 2: +15% Mitigation Chance when crouched.<br>Level 3: Unlocks the ability to sprint while crouching.
+All
+
+ENTRY
+lvl 1
+Serpentine
+None
++30% mit chance
+crouchsprint
++30% Mitigation Chance when crouch-sprinting.
+All
+
+ENTRY
+lvl 1
+Creeping Death
+None
++10% movement speed
+stealth kill
+When Optical Camo is active or you are undetected, neutralizing an enemy grants: +15% health, +15% stamina, +10% movement speed for 6 sec.
+All
+
+ENTRY
+lvl 1,15,Creeping Death
+Vanishing Act
+None
+None
+None
+Optical Camo activates automatically and consumes its charge gradually while crouch-sprinting or sliding.
+All
+
+ENTRY
+lvl 1
+Shinobi Sprint 
+None
+None
+None
+-75% Stamina cost for crouch-sprinting during combat.
+All
+
+//
+
+ENTRY
+lvl 1,4,None
+Killer Instinct
+None
++25% damage
+stealth
++25% damage with knives, axes and silenced guns outside of combat. They also provide a preview of estimated damage.
+throwable
+
+ENTRY
+lvl 1
+Gag order
+None
+None
+None
+Landing an attack on an enemy right after they detect you will delay detection from other nearby enemies.
+All
+
+ENTRY
+lvl 1
+Quick Getaway
+None
++20% movement speed
+stealth kill
++10% movement speed after neutralizing an enemy while undetected, stacks twice.
+All
+
+//
+
+ENTRY
+lvl 2,9,None
+Scorpion Sting
+-15% recovery time
+None
+None
+None
+None
+None
+Level 1: -15% recovery time<br>Level 2: Crits and headshots with throwable weapons apply poison for 5 sec.
+throwable
+
+ENTRY
+lvl 1
+Accelerated Toxin Absorption
+None
+None
+None
+Strong Attacks and thrown weapons against poisoned enemies instantly deal substantial Poison damage, then remove all Poison effects.
+throwable
+
+ENTRY
+lvl 1
+Corrosion
+None
+None
+None
+Allows you to apply Poison to mechs, robots, drones and turrets
+throwable
+
+ENTRY
+lvl 1
+Neurotoxin
+None
+None
+None
+Applying Poison to an enemy via Scorpion Sting now also applies bleeding and disables sprinting for 6 sec.
+throwable
+
+ENTRY
+lvl 1
+Parasite
+None
+None
+None
++15 Health on Crit Hits and headshots with thrown weapons.
+throwable
+
+//
+
+ENTRY
+lvl 3,15,Scorpion Sting
+Juggler
+-15% recovery time
+None
+None
++20% headshot damage
+None
+None
+None
+None
+None
+Level 1: -15% recovery time<br>Level 2: +20% headshot damage<br>Level 3: Instant cooldown reset after neutralizing via headshot, crit or poison.
+throwable
+
+ENTRY
+lvl 1
+Pay it forward
+None
+none
+none
+After retreiving a thrown weapon from an enemy, your first melee attack with a throwable weapon gains +200% damage.
+throwable
+
+ENTRY
+lvl 1
+Sleight of Hand 
+none
++100% crit damage
+Juggler
++20% critical damage for 8 sec. whenever Juggler is activated. Stack 5 times. New stacks reset duration. All stacks are removed when duration ends.
+throwable
+
+ENTRY
+lvl 1
+Finisher: Act of Mercy
+None
+None
+None
+Unlocks a Throwable Weapon Finisher. Automatically activates Juggler. Restores 25% Health.
+throwable
+
+ENTRY
+lvl 1,15,Finisher: Act of Mercy
+Pounce
+None
+None
+None
+Allows you to perform Finishers from a greater distance if the enemy has been hit with a throwable weapon. Each throw makes them more susceptible to Finishers.
+throwable
+
+//
+
+ENTRY
+lvl 1,4,None
+Road Warrior
+None
+None
+None
+Allows you to use Sandevistan to slow time while driving. Allows Kerenzikov to be activated when aiming and handbraking simultaneously. +25% weapon damage when your vehicle is drifting or airborne.
+vehicles
+
+ENTRY
+lvl 1,20,Deadeye
+Nerves of Tungsten Steel
+None
+crit chance = 100%, +25% damage
+deadeye
+When Deadeye is active: guaranteed critical hits for headshots and weak spots, increased damage as distance increases (max 25%).
+revolver, precision rifle, sniper rifle
+
+ENTRY
+lvl 1,20,Deadeye
+Run 'N' Gun 
+None
+None
+None
+Hip-Firing does not consume stamina. When Focus is active +25% movement speed. (not included in calculations)
+pistol
+
+ENTRY
+lvl 1,20,Ninjutsu
+Style over Substance
+movpen = 0%
+crit chance = 100%
+moving
+Guaranteed Crit hits with thrown attacks when crouch-sprinting, sliding, dodging or dashing. Also from motorcycles when airborne, drifting or dismounting via jump. No movement speed penalty when aiming a throwable weapon.
+throwable

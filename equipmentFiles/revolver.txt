@@ -1,0 +1,272 @@
+ENTRY
+Amnesty
+Power
+Cassidy's mods have turned this into the Wild West's most lethal revolver. Hip firing and landing a headshot immediately after drawing this weapon guarantees Crit Damage.	
++50% crit damage
+crit chance = 100%; +50% crit damage
+headshot; none
+5
+128
+0.9
+18
+4.1
+6
+200
+25
+
+ENTRY
+Archangel
+Power
+An angel of a weapon with a devil's attitude. Full-auto mode allows you to fire rounds in the rhythm of Samurai's "Archangel". Successive hits after short intervals knock enemies to the ground.
++20% Shock chance
+none
+none
+1.9
+128
+0.9
+42
+4.5
+6
+200
+25
+
+ENTRY
+Bald Eagle
+Power
+After throwing Iconic knife Fang into an enemy's leg, shooting the same leg will shred it to pieces and return Fang to your hand. Effective against moving targets.	
+Fires explosive rounds.	
+none
+none
+2
+134
+1.1
+42
+4.1
+8
+250
+75
+
+ENTRY
+Comrade's Hammer
+Tech
+The cylinder has been modified to hold a single explosive round capable of wreaking utter destruction. Automatically reloads when you perform a Quick Melee Attack.	
+Fires explosive rounds, but cannot penetrate cover. +50% Crit Damage
++50% crit damage
+none
+1.7
+559
+1.7
+30
+2.7
+1
+0
+75
+
+ENTRY
+Crash
+Power
+Charging for a brief time while aiming enables full auto mode. Decreases recoil and bullet spread. Decreases fire rate.	
+none
+none
+none
+2.1
+128
+1.1
+42
+4.7
+6
+200
+25
+
+ENTRY
+DR-12 Quasar
+Tech
+none
+Fires in full auto when fully charged. 
+none
+none
+5.6
+62
+1.4
+36
+6.4
+16
+175
+50
+
+ENTRY
+DR-5 Nova
+Power
+none
+none
+none
+none
+3.3
+106
+1.2
+42
+5.4
+6
+200
+25
+
+ENTRY
+Doom Doom
+Power
+Fires 3 explosive rounds per shot. Increases dismemberment chance at the cost of increased spread and recoil. Not recommended for neat freaks.
+none
+none
+none
+3.3
+213
+1.2
+30
+4.7
+6
+150
+25
+
+ENTRY
+Gris-Gris
+Tech
+This weapon has been fused with Slider's cyberdeck. Each hit has a chance to upload a random quickhack to an enemy. The stronger the quickhack, the smaller the upload chance.
+Fires in full auto when fully charged.
+none
+none
+5
+66
+1.5
+36
+6.4
+16
+175
+50
+
+ENTRY
+Laika
+Tech
+Part of a special Techtronika weapon series that was banned due to humanitarian concerns. Grants a chance to inflict a unique burn on the enemy. Hitting an enemy affected by this burn always deals Crit Damage. The more enemies simultaneously affected by this burn, the more Crit Damage you deal but at the cost of accuracy.
+Fires explosive rounds, but cannot penetrate cover. +66% Burn Chance.
+crit chance = 100%
+hit
+1.7
+284
+1.4
+34
+3
+2
+150
+50
+
+ENTRY
+Overture
+Power
+none
+none
+none
+none
+2.5
+128
+1.1
+42
+4
+6
+200
+25
+
+ENTRY
+Mancinella
+Power
+Equipped with a unique silencer. Headshots have a chance to apply Poison. After entering combat, your stealth damage bonus remains momentarily active.
+none
++100% stealth damage
+entering combat
+3.3
+96
+1.1
+63
+5.5
+6
+200
+25
+
+ENTRY
+Ol' Reliable
+Power
+Even Cassidy would ditch his Amnesty for this baby. Swapping to this weapon greatly increases headshot damage and effective range. The farther the target, the greater the headshot Crit Chance.
++50% Crit Damage
++50% crit damage; +50% headshot damage; +30% range; +42% headshot damage
+none; swapping to; swapping to; far 
+2.5
+128
+1.4
+63
+4.2
+6
+200
+25
+
+ENTRY
+Rosco
+Power
+Shooting an enemy first in the leg and then in the head will neutralize them on the spot. Grants 10 style points! Headshots against enemies lying on the ground always do Crit Damage.
++50% Crit Damage
++50% crit damage
+none
+2.5
+141
+1.1
+42
+3.9
+6
+150
+25
+
+ENTRY
+Taigan
+Power
+Part of a special Techtronika weapon series that was banned due to humanitarian concerns. Grants a chance to inflict a unique burn on the enemy. Shooting an enemy affected by this burn always deals Crit Damage. The more enemies simultaneously affected by this burn, the more Crit Damage you deal but at the cost of accuracy.
+Fires explosive rounds. +40% Burn Chance
+crit chance = 100%
+hit
+2
+133
+1.5
+30
+3.8
+10
+175
+50
+
+ENTRY
+Metel
+Power
+none
+Fires explosive rounds.
+none
+none
+1.7
+169
+1.4
+30
+3.8
+8
+175
+50
+
+ENTRY
+RT-46 Burya
+Tech
+none
+none
+none
+none
+1.7
+187
+1.4
+47
+3.1
+4
+175
+50
+

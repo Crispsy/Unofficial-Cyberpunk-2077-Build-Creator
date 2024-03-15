@@ -1,0 +1,607 @@
+ENTRY
+Ambition
+Tech
+Comes with a unique Zetatech scope. Hits have a chance to apply Blinding and bonus headshot damage for its duration.
+none
+none
+none
+5
+43
+0.8
+40
+8.2
+20
+150
+25
+
+ENTRY
+Apparition
+Tech
+Monitors its user's vitals. When Health level is critical, fire rate, reload speed and damage are increased. Charged shots deal twice as much damage.
+none
++40% attack speed, -15% reload time, +50% damage
+low health
+5
+49
+0.8
+36
+8.2
+20
+150
+50
+
+ENTRY
+HJKE-11 Yukimura
+Smart
+none
+none
+none
+none
+6.6
+40
+1.6
+30
+4.8
+30
+85
+0
+
+ENTRY
+JKE-X2 Kenshin
+Tech
+none
+none
+none
+none
+5
+49
+0.8
+36
+8.2
+20
+170
+50
+
+ENTRY
+Tamayura
+Power
+none
+none
+none
+none
+2.5
+124
+1.1
+36
+5
+8
+150
+25
+
+ENTRY
+Slaught-O-Matic
+Power
+none
+none
+none
+none
+6
+11
+0
+20
+4.3
+36
+150
+25
+
+ENTRY
+Catahoula
+Tech
+Unleash the power of the pack! Gain increased movement speed on kills and dismemberments.<br>The faster you move, the more damage you deal.<br>BARGHEST weapons also gain increased Armor Penetration.
+Fires in full auto when fully charged.
++20% movspeed, +25% damage
+kills
+5
+61
+1.5
+24
+6.2
+36
+150
+75
+
+ENTRY
+Chaos
+Tech
+Chit Chance, damage type and status-effect application are randomized after each reload. Good Luck! (not included in calculations due to difficult randomized elements)
+none
+none
+none
+4
+49
+0.6
+36
+8
+20
+150
+50
+
+ENTRY
+Cheetah
+Power
+Come closer - don't be shy. The nearer the target, the greater the Crit and Bleeding chance. Hits to an enemy's torso also deal more damage.
+none
++33% crit chance
+close
+3.6
+88
+0.9
+36
+6.6
+12
+150
+0
+
+ENTRY
+Liberty
+Power
+none
+none
+none
+none
+3.6
+81
+0.9
+36
+7.1
+14
+150
+0
+
+ENTRY
+Unity
+Power
+none
+none
+none
+none
+3.3
+94
+0.8
+36
+6.7
+12
+150
+0
+
+ENTRY
+Crimestopper
+Smart
+Freeze, dirtbag! Rounds have a chance to disable cyber-limbs, immobilizing the enemy and increasing Crit Damage. Crit Chance is momentarily increased after equipping this weapon. (always on in calculations)
+Can lock onto one additional enemy when aiming.
++33% crit chance, +50% crit damage
+none
+10
+36
+1.1
+24
+6.5
+20
+85
+0
+
+ENTRY
+Death And Taxes
+Power
+Nothing in life is free. Every powerful hit will cost you a bit of Health. When your Health gets low, rounds will start to Poison enemies.
+none
+none
+none
+3.3
+110
+1.1
+42
+7.8
+10
+125
+0
+
+ENTRY
+Dying Night
+Power
+Wilson's Lexington gives you the additional hope of seeing yet another Night City sunrise. Increases damage while moving and guarantees Shock with rapid hits.
+none
++25% damage
+moving
+8
+47
+0.8
+22
+7.7
+20
+125
+25
+
+ENTRY
+Genjiroh
+Smart
+Rounds per burst increased to 4. Increases magazine size and projectile speed. Can lock onto 4 targets simultaneously. Projectiles deal additional Electrical damage with an increased chance to apply Shock.
+none
+none
+none
+7.8
+40
+1.6
+36
+4.8
+40
+85
+0
+
+ENTRY
+HA-4 Grit
+Tech
+none
+Fires in full auto when fully charged.
+none
+none
+5
+57
+1.5
+30
+6.7
+30
+125
+50
+
+ENTRY
+Her Majesty
+Power
+While Optical Camo is active, this weapon's shots gain perfect accuracy and guaranteed headshot crits along with increased damage. As if that weren't enough, it comes with a unique silencer.
+none
+crit chance = 100%, +150% damage
+headshot, stealth/optical camo
+2.9
+100
+0.8
+36
+6.9
+10
+150
+0
+
+ENTRY
+A-22B Chao
+Smart
+none
+none
+none
+none
+2.5
+44
+1.4
+36
+4.2
+21
+85
+0
+
+ENTRY
+Kappa x-MOD2
+Smart
+A special version of the weapon capable of additional modification. Optimized design also allows for improved handling.
+none
+none
+none
+8.3
+36
+1.3
+18
+6.2
+25
+85
+0
+
+ENTRY
+Kongou
+Power
+The user can take advantage of ricochet technology even without the required cyberware. Reduced recoil and an increased rate of fire make up for the smaller magazine size. It's as deadly as it is elegant.
+none
+none
+none
+4.9
+81
+0.9
+36
+7.3
+12
+150
+0
+
+ENTRY
+La Chingona Dorada
+Power
+Every headshot temporarily increases Crit Damage and Burn chance. The next time you equip La Chingona Dorada, you gain extra ammo equal to the number of headshots.
+none
++100% crit damage
+headshots
+2.9
+122
+1.1
+42
+5.4
+10
+100
+25
+
+ENTRY
+Lexington x-MOD2
+Power
+A special version of the weapon capable of additional modification. Optimized design also allows for improved handling.	
+none
+none
+none
+8
+47
+0.9
+36
+7.9
+20
+175
+0
+
+ENTRY
+Lizzie
+Tech
+Fires an extra round per shot. Increases the number of rounds fired per shot when fully charged.
+Fires in a burst when fully charged.
+none
+none
+5.6
+80
+1
+24
+7.4
+15
+150
+50
+
+ENTRY
+Malorian Arms 3516
+Power
+Johnny Silverhand's signature weapon. Increases Quick Melee Damage by 800%, but expends all remaining ammunition in the magazine. Also deals increased damage against Elites.
+Custom Quick Melee (and Reload Animation)
+none
+none
+3.3
+124
+1.4
+36
+9.5
+10
+150
+50
+
+ENTRY
+M-10AF Lexington
+Power
+none
+none
+none
+none
+8
+47
+0.9
+30
+7.3
+20
+125
+0
+
+ENTRY
+M-76e Omaha
+Tech
+none
+Fires in a burst when fully charged.
+none
+none
+5.6
+80
+1
+30
+6.5
+9
+170
+50
+
+ENTRY
+Ticon
+Tech
+none
+Charged shots fire 3 rounds at once. Each deals full damage.
+none
+none
+3.3
+44
+1
+42
+7.3
+21
+170
+50
+
+ENTRY
+Ogou
+Smart
+Fires a burst of two explosive rounds. Hits have a higher chance of dismemberment. Each dismemberment increases Crit Chance and chance to apply Bleeding.
+none
++50% crit chance; +50% crit damage
+dismemberment; None
+3.3
+57
+1.4
+24
+4.3
+18
+50
+25
+
+ENTRY
+Pariah
+Tech
+Reed's modifications have turned this into a silent weapon. Headshots reduce charge time and increase reload speed.
+Charged shots fire 3 rounds at once. Each deals full damage.
+none
+none
+3.3
+40
+1
+42
+7.3
+21
+175
+50
+
+ENTRY
+Plan B
+Power
+Bullets have a higher chance to apply Bleeding, but keep an eye on your wallet! Every shot costs you eddies.
+none
+none
+none
+5
+67
+0.9
+36
+7.2
+20
+200
+0
+
+ENTRY
+Pride
+Power
+Rogue's pride and joy. After neutralizing with the Prejudice power assault, Pride will not consume ammo. The first shot is a guaranteed Crit Hit. When you're at high Health, headshots deal increased damage. Increases headshot damage against Elite enemies.
+none
++250% headshot damage; +100% crit damage, +10% damage
+high health; elite
+3.3
+113
+0.9
+36
+7.2
+10
+150
+0
+
+ENTRY
+Riskit
+Power
+When your Health is very low, weapon handling is improved and all hits are Crits.
+none
+crit chance = 100%
+low health
+3.3
+110
+1
+4
+5.7
+10
+150
+25
+
+ENTRY
+Rook
+Power
+Fully customized with a scope and silencer. Each rapid successive hit increases Crit Chance, but decreases accuracy. Keep 'er steady! One miss and the effect is gone.
+none
++100% crit chance; +50% crit damage 
+shots hit; None
+10
+38
+0.9
+48
+8
+30
+125
+0
+
+ENTRY
+Scorch
+Tech
+Not all good things must end! Charged shots that hit an enemy affected by Burn are automatically replenished in the magazine
+Charged shots fire 3 rounds at once. Each deals full damage.
+none
+none
+3.3
+44
+1
+42
+7.3
+21
+150
+50
+
+ENTRY
+Seraph
+Power
+Each subsequent hit increases the chance that your enemy will be consumed by the purifying flame of the Seraphim. Once Burning, bullets deal increased damage to the enemy.	
+Fires explosive rounds.
+none
+none
+3.6
+117
+0.9
+36
+7.1
+14
+150
+0
+
+ENTRY
+Skippy
+Smart
+Regina's Weapon. Has a limbs only mode and a headshot only mode.
+none
+none
+none
+6.7
+40
+1.6
+30
+4.8
+30
+85
+0
+
+ENTRY
+Kappa
+Smart
+none
+Can lock onto one additional enemy when aiming.
+none
+none
+8.3
+33
+1.3
+24
+5.5
+30
+105
+0
+
+ENTRY
+Nue
+Power
+none
+none
+none
+none
+2.9
+122
+1.1
+42
+5.5
+10
+125
+25

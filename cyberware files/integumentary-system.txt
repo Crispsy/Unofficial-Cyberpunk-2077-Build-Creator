@@ -1,0 +1,149 @@
+ENTRY
+Carapace
+16
+None
++32% armor
+attacked from side or rear 
++32% Armor effectiveness when attacked from the side or rear.
+94
+tech, +0.5 armor
+
+ENTRY
+Cellular Adapter
+30
++10% damage: tech
+None
+None
+For each point in Technical Attribute gain:<br>1% explosion resistance<br>0.5% Tech weapon damage<br>0.5% Health Item recharge speed<br>0.5% Grenade recharge speed
+146
+none
+
+ENTRY
+Chitin
+50
+None
+None
+None
+[Iconic];An extremely durable subcutaneous shell made of genetically modified chitin. Provides additional Health Regen.
+200
+body, +10% health regen
+
+ENTRY
+Cogito Lattice
+12
+None
++130 armor
+low ram
++240% Armor from this cyberware when available RAM is below 10
+54
+int, +2 armor
+
+ENTRY
+Countershell
+12
+None
++50% mit chance
+low health
++50% Mitigation Chance for 4 sec. if you lose 35% Health within 3 sec.<br>Cooldown 6 sec.
+57
+refl, +0.1% crit chance
+
+ENTRY
+Defenzikov
+25
+None
++90% mit chance
+Kerenzikov ends
++90% Mitigation chance for 4 sec. when Kerenzikov ends
+80
+refl, +0.1% crit chance
+
+ENTRY
+Nano-Plating
+20
+None
+None
+None
+7% chance to block an incoming projectile.<br>+100% bonus chance after performing a dodge or Dash. This bonus lasts 1.7 sec. or until the next projectile is blocked, whichever comes first.<br>Cannot block more than 3 projectiles in a 5 sec. span. (not included in calculations)
+78
+refl, +0.1% crit chance
+
+ENTRY
+Optical Camo
+20
+None
+None
+None
+-90% Visibility to enemies for 7 sec., making it more difficult for them to detect you outside of combat and hit you during combat.<br>Cooldown: 50 sec.
+30
+cool, +0.1 sec duration
+
+ENTRY
+Pain Editor
+35
+-7% inc damage
+None
+None
+-7% all incoming damage.
+108
+cool, +0.1% damage reduction
+
+ENTRY
+Painducer
+30
+None
+None
+None
+Converts 30% of damage taken into damage-over-time.
+138
+body, +0.5% damage-over-time resistance
+
+ENTRY
+Peripheral Inverse
+40
+None
+-45% inc damage
+close 
+[Iconic];The closer an attacking enemy is, the less damage they deal to you.<br>-45% incoming damage at 3 m.<br>Damage reduction tapers off to 0% at 6m.
+36
+body, +0.5 health
+
+ENTRY
+ProxiShield
+10
+None
+-20% inc damage
+close 
+The closer an attacking enemy is, the less damage they deal to you.<br>-20% incoming damage at 3 m.<br>Damage reduction tapers off to 0% at 6m.
+36
+body, +0.5 health
+
+ENTRY
+RangeGuard
+14
+None
++90 armor
+far
++90 Armor when there are no enemies within 6m.
+34
+cool, +0.2% headshot damage
+
+ENTRY
+Shock-n-Awe
+25
+None
+None
+None
+Whenever you take damage, you have a 10% chance to release a large electroshock that deals 500 damage to nearby enemies.
+92
+tech, +0.1% tech damage
+
+ENTRY
+Subdermal Armor
+5
+None
+None
+None
+Armor - simple but effective.
+49
+tech, +0.5 armor

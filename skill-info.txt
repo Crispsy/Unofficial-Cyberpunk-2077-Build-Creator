@@ -1,0 +1,108 @@
+#Solo
+5;Increases Carrying Capacity by 50
+10;Increases Health by 10
+15;+1 Perk Point
+20;Fists and Gorilla Arms Have: +20% Damage and +20% Attack Speed. Fists also have a Chance to Apply Bleeding
+25;Increases Carrying Capacity by 100
+30;Increases Health by 15
+35;+1 Perk Point
+40;+10% Crit Chance Against Enemies Within 5 meters
+45;+25% Damage With Strong Attacks and Quick Melee Attacks
+50;+25 Health After Performing a Finisher
+55;When Adrenaline Rush is Active, Adrenaline Decays 50% Slower and Cannot Decay Below 10%
+60;When Berserk Is Active: +30% Enemy Health Threshold to Perform Finishers, +50% Health From Performing Finishers, and +30% Bersker Duration
+@Body Attribute Checks, Shotguns, LMGs, HMGs and Blunt Weapons
+?
++10 health
++20% damage: gorilla
++20% attack speed: gorilla
++15 health
++10% crit chance, close
++25% damage, strong attack: melee
++25% qdamage
++30% duration, berserk
+END
+#Shinobi
+5;Increases Movement Speed by 5%
+10;-5% Stamina Cost From Dodging and Dashing
+15;+1 Perk Point
+20;Better accuracy after dodging or dashing
+25;Increased Accuracy For a Short Time After Dodging and Dashing
+30;Decreased stamina cost for dodging and dashing
+35;+1 Perk Point
+40;Increased Mitigation Chance The Faster You Move
+45;+25 Damage With Fast Attacks
+50;Air Dashing and Sliding Automatically Reload 20% of Your Equipped Weapon
+55;When Attacking From Midair or While Time Is Slowed, Low Stamina Does Not Affect Ranged Accuracy or Melee Attack Speed
+60;When Sandevistan is Active: +40 Crit Chance and No Stamina Cost For Any Type of Movement
+@Dashing/Dodging, Vaulting, Climbing, Assault Rifles, SMGs and Blades
+?
++5% movspeed
++5% mit chance, moving
++40% crit chance, sandevistan
+END
+#Engineer
+5;Increases Armor by 15
+10;Increases Cyberware Capacity by 5
+15;+1 Perk Point
+20;+10 Grenade Damage and Explosion Radius
+25;Increases Armor by 25
+30;Increases Cyberware Capacity by 10
+35;+1 Perk Point
+40;Increased Shock Chance From Charging a Tech Weapon or Electric Baton
+45;+15% Item Health Effectiveness
+50;+30% To All Cyberware Stat Modifiers
+55;10% Damage With Bolt Shots and +40% Burn Chance With Bolt Shots. Chain Lightning Now Sets Enemies on Fire.
+60;When Fury is Active, You Occasionally Release an EMP Blast
+@Tech Attribute Checks, Crafting, Neutralizing while Operating System/Optical Camo/Fury is active, Tech Weapons, Grenades, Projectile Launch System
+?
++15 armor
++25 armor
++15% health item
++30% cyberware stat modifiers
++10% damage, bolt shot: tech
+END
+#Netrunner
+5;Increases RAM Recovery Rate by 5%.
+10;Increases RAM by 1.
+15;+1 Perk Point
+20;+20% lock-on range with Smart weapons.
+25;Increases RAM Recovery Rate by 5%.
+30;Increases RAM by 1.
+35;+1 Perk Point
+40;-20% RAM cost for quickhacks used on devices and vehicles.
+45;+15% duration for Control and Convert quickhacks. +5% damage with Combat quickhacks.
+50;+40% duration for Overclock
+55;-10% Health loss from using quickhacks during Overclock.
+60;When active, Overlock now reveals enemies within 10 meters and allows you to quickhack non-netrunner enemies through cover.
+@Using/Crafting Quickhacks, Access Points, Smart Weapons and Monowire
+?
++5% ram recovery
++1 ram
++20% lock-on range
++5% ram recovery
++1 ram
+END
+#Headhunter
+5;Decreases Visibility to Enemies by 10%
+10;10% Headshot Damage and 10% Damage against Vulnerabilities
+15;+1 Perk Point
+20;No weapon sway when crouched.
+25;Decreases Visibility to Enemies by 10%
+30;15% Headshot Damage and 15% Damage against Vulnerabilities
+35;Gain a perk point
+40;Optical Camo is active while grappling enemies.
+45;Decreases recovery time after a throw by 30%.
+50;30% faster when crouch-walking and crouch-sprinting.
+55;Damage bonuses from being undetected outside of combat persist for 3 Seconds after entering combat.
+60;15% Optical Camo Charge when neutralizing an enemy in one of the following ways: While undetected. During Focus mode. During Deadeye mode. With a thrown weapon.
+@Stealth, Pistols, Revolvers, Sniper Rifles and Throwable Weapons
+?
+-10% visibility
++10% headshot damage
+-10% visibility
++15% headshot damage
+-30% recovery time
++30% movspeed, crouching
+DISABLE stealth != combat
+END

@@ -1,0 +1,191 @@
+ENTRY
+Borzaya
+Power
+Part of a special Techtronika weapon series that was banned due to humanitarian concerns. Grants a chance to inflict a unique burn on the enemy. Hitting an enemy affected by this burn always deals Crit Damage. The more enemies simultaneously affected by this burn, the more Crit Damage you deal but at the cost of accuracy.	
+Fires explosive rounds. +40% Burn Chance
+crit chance = 100%
+hits
+0.4
+296
+3
+60
+3.4
+5
+200
+50
+
+ENTRY
+Breakthrough
+Tech
+This rifle's unique mods allow rounds to penetrate through walls without being charged, after which they can ricochet multiple times.
+Can be charged from hip-fire.	
+none
+none
+1.7
+191
+2
+90
+5.7
+4
+300
+100
+
+ENTRY
+Foxhound
+Tech
+Unleash the power of the pack! Gain increased movement speed on kills and dismemberments. The faster you move, the more damage you deal. BARGHEST weapons also gain increased Armor Penetration.
+Can be charged from hip-fire.
++20% movspeed, +25% damage
+kills
+1.8
+193
+2
+90
+6.1
+3
+300
+75
+
+ENTRY
+Osprey
+Power
+Fires a powerful series of explosive rounds. Headshots increase damage from hip firing. Neutralizing multiple enemies increases reload speed and chance to apply Burning.	
+Heavy weapon. Slightly reduces movement speed and jump height. Holding the trigger while shooting from the hip allows it to fire in full auto.	
++200% damage
+headshot hit
+2.9
+136
+4
+60
+7.2
+12
+200
+50
+
+ENTRY
+O'Five
+Power
+Discover your inner pyromaniac and set your enemies alight thanks to explosive-packed bullets. The more enemies burning at once, the faster you reload and the higher your Crit Chance. Go on, Samurai - we got a city to burn.
+Very heavy weapon. When equipped, it significantly reduces movement speed and jump height, and prevents you from sprinting, dodging and dashing. +50% Crit Damage. +30% Burn Chance	
++49.8% crit chance
+enemy burning
+0.4
+774
+3
+40
+3.4
+3
+0
+50
+
+ENTRY
+Overwatch
+Power
+Increases reload speed. Comes with a custom silencer.
+none
+none
+none
+0.4
+215
+2.6
+90
+4.5
+5
+300
+50
+
+ENTRY
+Sparky
+Power
+Modded by Scavs. Rounds fired from this weapon emit electric bolts on each headshot.	
+none
+none
+none
+0.4
+307
+2.7
+83
+3.8
+4
+250
+50
+
+ENTRY
+SPT32 Grad
+Power
+none
+Heavy weapon. Slightly reduces movement speed and jump height.
+none
+none
+0.4
+307
+3
+90
+3.8
+4
+300
+50
+
+ENTRY
+Ashura
+Smart
+none
+Locks onto only one enemy at a time.
+none
+none
+1.7
+469
+1.7
+59
+3.7
+1
+150
+25
+
+ENTRY
+Nekomata
+Tech
+none
+Can be charged from hip-fire.
+none
+none
+1.7
+191
+2
+90
+5.5
+4
+300
+50
+
+ENTRY
+Rasetsu
+Tech
+Tsunami is once again a leader in arms tech innovation. Why? Charged rounds now penetrate through enemies and will bend their trajectory to hit multiple enemies simultaneously.	
+none
+none
+none
+0.8
+246
+3.6
+90
+4.5
+3
+300
+50
+
+ENTRY
+Yasha
+Smart
+A special version of the weapon capable of additional modification. Optimized design also allows for improved handling.
+Locks onto only one enemy at a time.
+none
+none
+1.7
+422
+1.6
+48
+4.3
+1
+150
+25

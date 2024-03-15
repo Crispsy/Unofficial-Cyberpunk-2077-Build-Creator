@@ -1,0 +1,319 @@
+ENTRY
+Alabai
+Power
+Part of a special Techtronika weapon series that was banned due to humanitarian concerns. Grants a chance to inflict a unique burn on the enemy. Shooting an enemy affected by this burn always deals Crit Damage. The more enemies simultaneously affected by this burn, the more Crit Damage you deal but at the cost of accuracy.
+none
++100% crit chance
+hit
+4
+155
+1.7
+9
+4.5
+15
+85
+25
+
+ENTRY
+Amstaff
+Power
+Unleash the power of the pack! Gain increased movement speed on kills and dismemberments. The faster you move, the more damage you deal. BARGHEST weapons also gain increased Armor Penetration.	
+none
++20% movspeed, +25% damage
+kills
+2.5
+238
+1.7
+16
+4.2
+8
+150
+25
+
+ENTRY
+Ba Xing Chong
+Smart
+A rocket launcher that fires explosive rounds. This weapon can smart-target up to six enemies simultaneously. Everything caught in the blast radius is torn to shreds. Be careful - that goes for you too. At low Health, reload speed and Burn chance is increased.
+Heavy weapon. Slightly reduces movement speed an jump height.
+none
+none
+2
+1316
+2.3
+30
+2.5
+2
+50
+0
+
+ENTRY
+Bloody Maria
+Power
+Increases knockdown, bleeding and dismemberment chance. Enemies deprived of their limbs increase your reload speed and Crit Chance. In other words, it's going to be a mess.
+none
++50% crit chance
+dismemberment
+1.2
+345
+0.4
+12
+3.3
+8
+85
+25
+
+ENTRY
+Carnage
+Power
+none
+Heavy weapon. Slightly reduces movement speed and jump height.
+none
+none
+0.8
+510
+0.8
+8
+2.9
+4
+85
+50
+
+ENTRY
+M2038 Tactician
+Power
+none
+none
+none
+none
+1.2
+345
+0.4
+12
+3.3
+8
+85
+25
+
+ENTRY
+Dezerter
+Power
+This shotgun's extreme firepower pulverizes everything in its path. Neutralizing an enemy engulfs you in flames except when your Health is low, granting a Movement Speed boost and increased Mitigation Chance.
+Fires explosive rounds.
++20% movspeed, +10% mit chance
+kill
+2
+718
+0.8
+12
+2.8
+2
+85
+75
+
+ENTRY
+Guts
+Power
+Let the lead fly! Shoot faster, deal more damage... accuracy be damned. Just don't shoot your eye out.
+Heavy weapon. Slightly reduces movement speed and jump height.
+none
+none
+0.8
+417
+0.8
+12
+2.5
+6
+85
+75
+
+ENTRY
+L-69 Zhuo
+Smart
+none
+Heavy weapon. Slightly reduces movement speed and jump height.
+none
+none
+2.5
+345
+2
+24
+4.9
+4
+35
+25
+
+ENTRY
+Crusher
+Power
+none
+none
+none
+none
+2.5
+229
+1.7
+12
+4.5
+12
+135
+0
+
+ENTRY
+Mox
+Power
+Judy's mods give this weapon extra lightness and precision. When enemies get close, your Shock and Knockdown chance is increased.	
+Improves accuracy by changing irregular pellet spread into a more uniform, predictable pattern.	
+none
+none
+0.9
+404
+0.6
+12
+5.5
+8
+85
+25
+
+ENTRY
+Order
+Tech
+Charging this weapon above 66% vaporizes any enemies in your path, leaving an EMP trail behind it. Only for the brave of heart and steel of nerves.	
+Can be charged from hip fire.	
+none
+none
+2
+507
+1.2
+18
+3.1
+2
+50
+100
+
+ENTRY
+Pozhar x-MOD2
+Power
+A special version of the weapon capable of additional modification. Optimized design also allows for improved handling.	
+Improves accuracy by changing irregular pellet spread into a more uniform, predictable pattern.	
+none
+none
+3.6
+186
+1.5
+14
+5.9
+10
+85
+25
+
+ENTRY
+DB-2 Satara
+Tech
+none
+Can be charged from hip-fire.
+none
+none
+3.3
+458
+0.9
+18
+3.2
+2
+85
+50
+
+ENTRY
+DB-2 Testera
+Power
+none
+none
+none
+none
+2
+621
+0.7
+18
+3.7
+2
+85
+50
+
+ENTRY
+DB-4 Igla 
+Power
+none
+none
+none
+none
+5
+438
+0.9
+18
+3.9
+2
+85
+25
+
+ENTRY
+DB-4 Palica
+Smart
+none
+Rounds deal increased damage, but have a chance to lose target-lock and miss.
+none
+none
+5
+619
+0.6
+12
+4.7
+2
+35
+0
+
+ENTRY
+Sovereign
+Power
+Guaranteed Crit Hits with point-blank shots. Increases reload and movement speed after shooting an enemy in the torso.
+none
+crit chance = 100%; +18% movspeed
+close; shots
+5
+263
+1
+8
+2.7
+2
+85
+75
+
+ENTRY
+VST-37 Pozhar
+Power
+none
+none
+none
+none
+3.6
+173
+1.7
+14
+4.7
+12
+85
+25
+
+ENTRY
+The Headsman
+Power
+Fires a single round instead of pellets. Coupled with a unique scope, this shotgun gains ridiculous accuracy for its range. Headshots momentarily increase reload speed and accuracy and a subsequent headshot deals Crit Damage.
+none
+crit damage = 100%
+headshot
+1.2
+245
+0.4
+26
+5.6
+6
+200
+25
